@@ -1,0 +1,18 @@
+{
+  "id": "IF3210",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pengembangan Aplikasi pada Platform Khusus",
+      "description": "Perkuliahan ini menjelaskan sejumlah platform computing selain general purpose computer. Kuliah ini mengajarkan sejumlah teknik untuk mendesian dan mengembangkan aplikasi pada sebuah platform khusus, dengan memperhatikan keterbatasan pada platform tersebut. Mahasiswa akan belajar bagaimana melakukan pengukuran kinerja dan meningkatkan kinerja dari aplikasi yang telah dibangun pada platform tersebut.",
+      "syllabus": "Kuliah ini berfokus pada desain dan pengembangan aplikasi yang berada pada sebuah platofrm kusus dimana terdapat sejumlah batasan tambahan (diluar batasan umum yang ada pada komputer pada umumnya) yang harus diperhatikan. Pada perkuliahan ini mahasiswa akan belajar membuat abstraksi dari sebuah aplikasi dan bagaiman mengkontekstualkan desain tersebut dan mengimplementasikannya pada sebuah platform khusus. Kuliah ini menitikberatkan pada tiga platform: industrial, game, and mobile. Kuliah ini juga membahas bagaimana melakukan debugging, pengukuran-peningkatan kinerja , dan proses re-engineering untuk portability dari sebuah aplikasi.",
+      "outcomes": "Mahasiswa memahami prinsip dasar dan fungsi dari sebuah platform.Mahasiswa dapat mendesain dan mengembangkan sebuah piranti lunak pada sebuah platform khusus.Mahasiswa dapat mengukur dan memperbaiki kinerja piranti lunak yang telah dibangun pada sebuah platform."
+    },
+    "en": {
+      "name": "Platform-based Application Development",
+      "description": "This course explains various platform of computing. The course teaches how to design and develop a software application that resides on a specific software platform by taking into account its contraints. In this course, the student swill learn how to do performance measurement and tuning.",
+      "syllabus": "This course concerns on the design and development of a software system that resides on a platform specific. In contrast to the general purpose programming, this platform-based development needs to account platform-specific constraints. In this course, students will learn about software abstraction, and how to design a software for a particular platform. Moreover, they need to develop softwares in various platforms, such as: industrial, game, and mobile. This course covers how to do debugging in a platform, performance measurement & tuning, and improving portability of a software.",
+      "outcomes": "Students understand basic principles and functions of selected platforms.Students are able to design and implement a platform-based application.Students are able to measure and improve the performance of a platform-based application."
+    }
+  }
+}

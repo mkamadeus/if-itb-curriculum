@@ -1,0 +1,18 @@
+{
+  "id": "IF3270",
+  "points": "2 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pembelajaran Mesin",
+      "description": "Kuliah ini membahas berbagai teknik pembelajaran oleh mesin serta pengenalan pola. Pendekatan yang diberikan mencakup supervised learning dan unsupervised learning.",
+      "syllabus": "Materi yang tercakup di dalamnya meliputi: overview Machine Learning, Decision Tree Learning, Logistic Regression, Artificial Neural Network: Perceptron, Deep Neural Network: Feed Forward Network, Support Vector Machine (Linear SVM and Non-Linear SVM, Klasifikasi Multikelas) Clustering (K-Means, K-Medoids, Density based - DBSCan, Graph-based, Hierarchical Clustering (Agglomerative and Divisive) dan Design Experiments and Experiments Machine Learning",
+      "outcomes": "mahasiswa menjelaskan perbedaan jenis pembelajaran unsupervised dan supervisedmahasiswa mampu memahami dan mengimplementasikan algoritma sederhana untuk kedua jenis pembelajaran tersebutmahasiswa mampu memilih jenis pembelajaran yang tepat untuk kasus persoalan/ aplikasi tertentumahasiswa mampu melakukan evaluasi terhadap kinerja suatu algoritma pembelajaran pada kasus persoalan tertentu"
+    },
+    "en": {
+      "name": "Machine Learning",
+      "description": "This course discusses broad introduction to machine learning and pattern recognition. The approach consists of supervised learning and unsupervised learning.",
+      "syllabus": "The topics discussed in this course are: overview of Machine Learning, Decision Tree Learning, Logistic Regression, Artificial Neural Network: Perceptron, Deep Neural Network: Feed Forward Network, Support Vector Machine (Linear SVM and Non-Linear SVM, Multiclass Classification) Clustering (K-Means, K-Medoids, Density based - DBSCan, Graph-based, Hierarchical Clustering (Agglomerative and Divisive) and Design Experiments and Experiments Machine Learning",
+      "outcomes": "students are able to explain the differences between unsupervised and supervised learningstudents are able to understand and implement some simple algorithms for both types of learningstudents are able to choose the appropriate algorithm for a particular problem or application casestudents are able to evaluate the performance of a learning algorithm given certain problem cases"
+    }
+  }
+}

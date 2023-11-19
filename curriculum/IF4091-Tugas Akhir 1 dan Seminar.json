@@ -1,0 +1,18 @@
+{
+  "id": "IF4091",
+  "points": "2 (1) SKS",
+  "syllabus": {
+    "id": {
+      "name": "Tugas Akhir 1 dan Seminar",
+      "description": "Tugas Akhir I (selanjutnya disebut TA-I) mencakup perumusan persoalan keinformatikaan yang akan dipecahkan dalam TA serta melakukan studi literatur yang terkait dengan persoalan tersebut dalam rangka merumuskan solusi untuk penyelesaian persoalan tersebut.",
+      "syllabus": "Tugas Akhir I (selanjutnya disebut TA-I) mencakup perumusan persoalan keinformatikaan yang akan dipecahkan dalam TA serta melakukan studi literatur yang terkait dengan persoalan tersebut dalam rangka merumuskan solusi untuk penyelesaian persoalan tersebut.",
+      "outcomes": "Mahasiswa mampu mendeskripsikan latar belakang, rumusan masalah, dan tujuan proyek penelitian/pengembangan/eksperimen yang akan dilakukan serta membuat perencanaan pelaksanaan proyek.Mahasiswa mampu melakukan review literatur yang komprehensif dan evaluasi yang kritis terkait dengan persoalan yang dikerjakan.Mahasiswa mampu mendefinisikan, mengulas, dan menganalisis secara ilmiah, sistematis dan terperinci, terhadap sebuah persoalan computing yang dikerjakan."
+    },
+    "en": {
+      "name": "Final Project I and Seminar",
+      "description": "-",
+      "syllabus": "-",
+      "outcomes": "---"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "MA1201",
+  "points": "4 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Matematika IIA",
+      "description": "Teknik Pengintegralan, Bentuk tak tentu dan Integral tak wajar, Deret Takhingga, Geometri di Bidang dan Ruang, Turunan di Rn , Integral Lipat Dua, Persamaan Diferensial Biasa.",
+      "syllabus": "Matakuliah ini adalah bagian kedua dari seri Kalkulus untuk bidang-bidang sains dan rekayasa. Materi yang dibahas antara lain, Teknik Pengintegralan, Bentuk tak tentu dan Integral tak wajar, Deret Takhingga, Geometri di Bidang dan Ruang, Turunan di Rn , Integral Lipat Dua, Persamaan Diferensial Biasa",
+      "outcomes": "Keterampilan teknis baku yang didukung oleh konsep, rumus, metode, dan penalaran yang sesuai;Pola berpikir yang kritis, logis dan sistematis; serta kreativitas dalam pemecahan masalah yang terkait dengan MatematikaKemampuan mengkomunikasikan hasil pemikiran dan pekerjaannya baik secara lisan maupun tulisan;Kesiapan untuk mempelajari matakuliah lain, yang memerlukan matematika sebagai prasyarat, secara mandiri."
+    },
+    "en": {
+      "name": "Mathematics IIA",
+      "description": "Techniques of integration, indefinite forms, improper integrals, infinite series, 2D and 3D geometries, derivatives in Rn, double integrals, ordinary differential equations",
+      "syllabus": "This course is the second part of University Calculus series for science and engineering. It covers Techniques of integration, indefinite forms, improper integrals, infinite series, 2D and 3D geometries, derivatives in Rn, double integrals, ordinary differential equations",
+      "outcomes": ""
+    }
+  }
+}

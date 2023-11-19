@@ -1,0 +1,18 @@
+{
+  "id": "IF4071",
+  "points": "2 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pemrosesan Ucapan",
+      "description": "Kuliah ini membahas teori dasar dan implementasi dari pengenalan suara dan sintesis suara secara otomatis, termasuk algoritma dan arsitekturnya.",
+      "syllabus": "Materi yang dicakup dalam kuliah ini adalah automatic speech recognition, speaker rcognition, dan speech synthesis.",
+      "outcomes": "- mahasiswa mampu memahami berbagai teknik pengenalan ucapan manusia.- mahasiswa mampu memahami konsep dasar dan cara kerja sistem pembangkitan suara.- mahasiswa mampu memahami konsep dasar dan cara kerja sistem pengenal pembicara.- mahasiswa mampu membangun system pengenal ucapan sederhana dengan menggunakan kakas yang sudah tersedia."
+    },
+    "en": {
+      "name": "Speech Processing",
+      "description": "The course describes the basic theory, algorithm, and architecture of speech processing, including speech recognition and synthesis.",
+      "syllabus": "The topics are: speech recognition, speaker recognition, and speech synthesis.",
+      "outcomes": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "IF2120",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Matematika Diskrit",
+      "description": "Himpunan, relasi dan fungsi, teknik pembuktian, teori bilangan, kombinatorial, graf, pohon, dan kompleksitas algoritma",
+      "syllabus": "Himpunan, relasi dan fungsi, teknik pembuktian, teori bilangan, kombinatorial, graf, pohon, dan kompleksitas algoritma",
+      "outcomes": "Mahasiswa dapat memahami konsep dasar matematika diskrit sehingga mampu memodelkan persoalan di dunia nyata dengan menggunakan konsep-konsep tersebut. Kuliah ini mengajarkan konsep dasar dan berbagai terminologi sebagai bekal untuk memahami berbagai kuliah lanjutan di Bidang Informatika."
+    },
+    "en": {
+      "name": "Discrete Mathematics",
+      "description": "Sets, relations and functions, proof techniques, number theory, combinatoric, graphs, trees, and algorithm complexity.",
+      "syllabus": "Sets, relations and functions, proof techniques, number theory, combinatoric, graphs, trees, and algorithm complexity.",
+      "outcomes": "Students are able to understand basic concepts of discrete mathematics so that they can model the real world problems using the concepts. This course give basic concepts and terminologies for understanding other advanced courses in Informatics."
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "IF2123",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Aljabar Linier dan Geometri",
+      "description": "matriks, ruang vektor, bilangan kompleks, quarternion, dan aljabar geometri",
+      "syllabus": "Aljabar elementer, aljabar bilangan kompleks, aljabar vektor, aljabar quaternion, matriks dan transformasi linier, aljabar matriks, sistem persamaan linier, vektor eigen dan nilai eigen, aljabar geometrik dan operasinya,  aplikasi aljabar geometrik dalam geometri, misalnya pencerminan dan rotasi.",
+      "outcomes": "Mahasiswa mampu memahami berbagai teori aljabar termasuk di dalamnya aljabar geometriMahasiswa mampu menyelesaikan masalah geometri secara aljabar"
+    },
+    "en": {
+      "name": "Geometric and Linear Algebra",
+      "description": "matrix, vector space, complex number, quarternion, and geometric algebra.",
+      "syllabus": "elementary algebra, complex number algebra, vector algebra, quaternion algebra, matrix and linear transformation, matrix algebra, linear equation system, eigen vector and eigen value,  geometric algebra and its operations, applications of geometric algebra in geometry, e.g reflection and rotation.",
+      "outcomes": ""
+    }
+  }
+}

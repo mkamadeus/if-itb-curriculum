@@ -1,0 +1,18 @@
+{
+  "id": "IF3280",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Socio-informatika dan Profesionalisme",
+      "description": "Kuliah ini membahas mengenai budaya, sosial, hukum, dan isu etika yang terkait dengan disiplin ilmu informatika, peran-peran yang dapat dijalankan sebagai praktisi informatika, konteks sosial dimana solusi keinformatikaan diterapkan, profesionalisme, serta komunikasi efektif.",
+      "syllabus": "Materi yang tercakup di dalamnya meliputi:  •\tKonteks Sosial •\tKakas penganalisis •\tEtika Profesional •\tHak atas Kebebasan Intelektual •\tPrivacy and Civil Liberties  •\tKomunikasi Profesional •\tSustainabilitas •\tKebijakan keamanan, hukum,dan kejahatan di dunia komputer.",
+      "outcomes": "Mahasiswa mampu memahami dasar-dasar kebudayaan, sosial, hukum, dan isu etika yang terkait dengan disiplin ilmu Informatika termasuk hak-hak hukum hukum yang dimiliki pengguna dan pembuat perangkat lunak dan perangkat keras, dan menghargai nilai etika yang mendasari hukum tersebutMahasiswa mampu memahami tanggung jawab yang akan dipikul sebagai praktisi di bidang keinformatikaan, memahami keterbatasan yang dimiliki termasuk di dalamnya keterbatasan kakas yang adaMahasiswa mampu mengkritisi dan mengevaluasi solusi-solusi keinformatikaan yang diterapkan untuk menjawab persoalan tertentu, memahami akibat yang mungkin muncul dengan adanya teknologi baru terhadap sebuah lingkungan.Apakah teknologi tersebut akan meningkatkan atau malah menurunkan kualitas hidup manusia secara individu, kelompuk, maupun institusiMahasiswa mampu memahami bagaimana bekerja secara profesionalMahasiswa mampu memahami dan mempraktikkan cara berkomunikasi yang efektif."
+    },
+    "en": {
+      "name": "Socio-informatics and Professionalism",
+      "description": "This course discusses the social, legal, ethical and cultural issues involved in the deployment and use of computer technology,social Context, Analytical Tools, Professional Ethics, Intellectual Property, and effective communication.",
+      "syllabus": "The topics discussed in this course are:  •\tSocial Context  •\tAnalytical Tools  •\tProfessional Ethics  •\tIntellectual Property  •\tPrivacy and Civil Liberties  •\tProfessional Communication  •\tSustainability  •\tSecurity Policies, Laws and Computer Crimes",
+      "outcomes": "Students are able to understand the basics of culture, social, legal, and ethical issues related to Informatics disciplines including legal rights owned by users and software and hardware producers, and respect the ethical values that underlie the law.Students are able to understand the responsibilities that will be borne as practitioners in the field of informatics, to understand the limitations they have, including the limitations of existing resourcesStudents are able to criticize and evaluate IT solutions that are applied to answer certain problems, understand the consequences that might arise with the presence of new technologies for an environment. Whether these technologies will increase or even reduce the quality of human life individually, in groups and institutions.Students are able to understand how to work professionallyStudents are able to understand and practice effective ways of communicating"
+    }
+  }
+}

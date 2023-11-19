@@ -1,0 +1,18 @@
+{
+  "id": "IF4072",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pemrosesan Text dan Suara Bahasa Alami",
+      "description": "Kuliah ini membahas teori dasar dari kakas pemrosesan bahasa alami, text mining dan sistem dialog, termasuk algoritma dan arsitektur nya, untuk media text dan speech.",
+      "syllabus": "Materi yang dicakup dalam kuliah ini adalah pemrosesan leksikal kata,  pemrosesan sintaks kalimat, named entity tagger, pemrosesan semantic kalimat, information extraction, question answering, machine translation, dialogue management, text categorization serta berbagai model yang diguanakn pada pengenalan suara seperti noisy channel model, Hidden Markov Models (HMMs) GMM (Gaussian Mixture Model) acoustic models, A* and Viterbi decoding, N-gram language modeling, unit selection synthesis, dialogue architectures, dan peran dari linguistic knowledge (seperti fonetik, intonasi, keragaman pengucapan (pronounciation) emosi).",
+      "outcomes": "- mahasiswa mampu memahami bagaimana solusi yang ditawarkan suatu kakas pemroses bahasa alami, text mining dan sistem dialog - mahasiswa mampu merancang arsitektur untuk text mining dan sistem dialog - mahasiswa mampu menjelaskan perbedaan dari algoritma untuk pengenalan ucapan secara otomatis - mahasiswa mampu menjelaskan tahapan dalam proses sintesis ucapan, serta apa saja yang mempengaruhi hasil nya"
+    },
+    "en": {
+      "name": "Natural Language (Text and Speech) Processing",
+      "description": "The course describe the basic theory of natural language processing tool, text mining and dialogue system; including the algorithm and architecture for text and speech media.",
+      "syllabus": "The topics are: word and sentence processing, named entity tagger, semantically sentence processing, information extraction, question answering, machine translation, dialogue management, text categorization, the key algorithm of speech recognition and synthesis such as noisy channel model, Hidden Markov Models (HMMs) GMM (Gaussian Mixture Model) acoustic models, A* and Viterbi decoding, N-gram language modeling, unit selection synthesis, dialogue architectures, role of linguistic knowledge (fonetik, intonation, pronounciation, emotion).",
+      "outcomes": ""
+    }
+  }
+}

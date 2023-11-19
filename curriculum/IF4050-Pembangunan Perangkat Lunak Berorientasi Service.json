@@ -1,0 +1,18 @@
+{
+  "id": "IF4050",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pembangunan Perangkat Lunak Berorientasi Service",
+      "description": "Kuliah ini memberikan pemahaman mengenai berbagai aspek terkait pembangunan perangkat lunak berorientasi service, serta praktek pembangunan perangkat lunak berorientasi service skala kecil",
+      "syllabus": "Definisi, karakteristik, dan standard terkait service; service provider: perancangan, implementasi, dan publikasi service; service consumer: memanfaatkan service; platform dan tools; SaaS; metodologi pembangunan P/L berorientasi service; serta praktek membangun sebuah P/L berskala kecil yang memanfaatkan service yang dibangun oleh kelompok lainnya",
+      "outcomes": "Setelah lulus kuliah ini, mahasiswa mampu: 1. Memahami tentang service , standard, service life cycle, dan pembangunan PL berorientasi service 2. Menggunakan tools dan platform untuk pembangunan P/L berorientasi service 3. Mempraktekkan pembangunan P/L berorientasi service"
+    },
+    "en": {
+      "name": "Service Oriented Software Development",
+      "description": "This course provides an understanding of the various aspects related to service-oriented software development, and software development practices of small-scale service-oriented",
+      "syllabus": "Definition, characteristics, and related service standards; service provider: design, implementation, and publication of services; service consumer: consumes a service; platforms and tools; SaaS; service-oriented software development methodology; case study: building a small scale service-oriented software that composed of provided services",
+      "outcomes": ""
+    }
+  }
+}

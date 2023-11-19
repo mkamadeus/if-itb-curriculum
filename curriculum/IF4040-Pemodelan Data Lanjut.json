@@ -1,0 +1,18 @@
+{
+  "id": "IF4040",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pemodelan Data Lanjut",
+      "description": "Mata kuliah ini memberikan wawasan dan pengetahuan mengenai pemodelan data tingkat lanjut, seperti penambahan aspek waktu dan ruang di dalam basis data, penggunaan aturan untuk mendapatkan fakta baru dari basis data, maupun pemodelan data non relasional.",
+      "syllabus": "Materi yang diberikan pada kuliah ini merupakan wawasan dan pengetahuan mengenai pemodelan data tingkat lanjut. Perluasan pemodelan ini dapat dilakukan berdasarkan sejumlah pendekatan, yaitu: menambahkan sejumlah aspek semantik ke dalam basis data, misalnya aspek semantik waktu dan ruang; memperkenalkan model pendefinisian fakta yang baru berdasarkan fakta yang tersimpan di basis data, misalnya dengan menggunakan rule dalam pembangkitan fakta; memperkenalkan suatu pendekatan model data yang bukan relasional; maupun memperkenalkan pendekatan baru dalam melakukan pemodelan data.",
+      "outcomes": "- Mahasiswa memiliki pemahaman terhadap setiap topik yang diberikan- Mahasiswa mampu melakukan eksplorasi lebih lanjut untuk menerapkan masing-masing topik apa bila diperlukan"
+    },
+    "en": {
+      "name": "Advanced Data Modeling",
+      "description": "This course provides insight and knowledge on advance data modeling, such as including time or space aspect to the data model, the use of rules to deduce new facts from the database, and data modeling using non-relational approach.",
+      "syllabus": "The topics covered in this course provides insight and knowledge on advance data modeling. The extension to the common data modeling is done through several approaches, i.e. including new aspects or semantics to the database, e.g. time or space aspects; introducing new ways to define new facts from the data stored in the database, e.g. by using rules to deduce new facts; introducing a non-relational data model; and introducing a new approach in data modeling process.",
+      "outcomes": ""
+    }
+  }
+}

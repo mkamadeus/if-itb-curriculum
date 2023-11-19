@@ -1,0 +1,18 @@
+{
+  "id": "IF3159",
+  "points": "1 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Dasar Pembangunan Perangkat Lunak",
+      "description": "Mata kuliah ini dirancang sebagai mata kuliah transisi, sebagai konsekuensi perubahan IF2250 Dasar Rekayasa Perangkat Lunak (2 sks) menjadi IF2250 Rekayasa Perangkat Lunak (3 sks) Mata kuliah ini memberikan tambahan pengertian tentang rekayasa perangkat lunak dan kemampuan dasar dalam pembangunan perangkat lunak skala kecil dan sederhana, mencakup kemampuan melakukan analisis kebutuhan perangkat lunak dan perancangan perangkat lunak, mengoperasikan berbagai alat bantu terkait pemodelan hasil analisis dan perancangan, manajemen konfigurasi perangkat lunak, dan pengujian.",
+      "syllabus": "Detail topik matReview analisis dan perancangan P/L dan alat bantu pemodelannya; standard dan dokumentasi P/L, mencakup SDD, SRS, SDD, STP; manajemen konfigurasi perangkat lunak, termasuk version control; pengujian P/L terutama terkait pemanfaatan alat bantu pengujian otomatisa kuliah akan didefinisikan kemudian",
+      "outcomes": "Memahami dan mengaplikasikan analisis dan perancangan perangkat lunak, berikut berbagai pemodelannya dengan berbagai alat bantuMemahami manajemen konfigurasi perangkat lunak, termasuk menggunakan alat bantunyaMerencanakan dan merancang pengujian perangkat lunak, termasuk mengenal alat bantu pengujian unit secara otomatis"
+    },
+    "en": {
+      "name": "Software Construction Fundamentals",
+      "description": "-",
+      "syllabus": "-",
+      "outcomes": ""
+    }
+  }
+}

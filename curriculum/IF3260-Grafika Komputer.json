@@ -1,0 +1,18 @@
+{
+  "id": "IF3260",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Grafika Komputer",
+      "description": "Pembuatan image, framebuffer, primitif dari penggambaran objek, algoritma Bresenham, transformasi geometri, window-view, layering, clipping, object filling, optimasi anti-clipping, struktur data spatial, pemodelan hierarki, kurva Bezier & Spline",
+      "syllabus": "Pembuatan image, framebuffer, primitif dari penggambaran objek, algoritma Bresenham, transformasi geometri, window-view, layering, clipping, object filling, optimasi anti-clipping, struktur data spatial, pemodelan hierarki, kurva Bezier & Spline",
+      "outcomes": "Memahami bagaimana gambar dibuat di komputerMampu menerapkan teknik pemodelan dan pemrosesan gambarMampu mengembangkan aplikasi komputer yang memanfaatkan pemrosesan gambar"
+    },
+    "en": {
+      "name": "Computer Graphics",
+      "description": "Image creation, framebuffer, primitive object drawing, Bresenham algorithm, Geometry Transformation, window-view, layering, clipping, object filling, anti-clipping optimization, spatial data structure, hierarchical modeling,  Bezier & Spline curve",
+      "syllabus": "Image creation, framebuffer, primitive object drawing, Bresenham algorithm, Geometry Transformation, window-view, layering, clipping, object filling, anti-clipping optimization, spatial data structure, hierarchical modeling,  Bezier & Spline curve",
+      "outcomes": "Understand how the image is created in a computerAble to implement modeling techniques and image processingAble to develop computer application that utilize image processing"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "IF4010",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pemrograman Unit Pemrosesan Grafis",
+      "description": "Kuliah ini membahas teknik premrograman dengan menggunakan GPU untuk komputasi paralel dan bagaimana teknik optimasinya",
+      "syllabus": "Materi yang diberikan pada kuliah ini mencakup pengantar pemrograman GPU, model pemrograman CUDA, model memori, scheduling thread pada GPU, operasi atomic, pola komputasi paralel pada GPU (tiling, reduksi, scan) model memori tekstur dan konstan, teknik lanjut pada GPU (perpindahan data host-GPU, unified memory, pinned host memory, task parallelism)",
+      "outcomes": "- Mahasiswa mampu menjelaskan teknik-teknik optimasi pemrograman pada- Mahasiswa mampu memprogram menggunakan GPU dengan efisien"
+    },
+    "en": {
+      "name": "Graphical Processing Unit Programming",
+      "description": "This course discusses parallel programming techniques on GPU and their optimizations.",
+      "syllabus": "The topics discussed in this course are introduction to GPU programming, CUDA programming model, CUDA memory model, GPU thread scheduling, atomic operations, GPU computation pattern (tiling, reduction, scan) texture memory and constant memory, GPU advanced techniques (data movement, unified memory, pinned host memory, task parallelism.",
+      "outcomes": ""
+    }
+  }
+}

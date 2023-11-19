@@ -1,0 +1,18 @@
+{
+  "id": "IF2110",
+  "points": "4 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Algoritma & Struktur Data",
+      "description": "Mata kuliah ini memberikan pemahaman atas konsep algoritma dan struktur data yang umum dipakai di bidang informatika/ilmu komputer, dan (2) keahlian dalam mendesain dan menggunakan algoritma dan struktur data yang baik untuk memecahkan persoalan, dan (3) membangun program dengan paradigma prosedural skala menengah dengan bahasa pemrograman C.",
+      "syllabus": "Konsep dasar struktur data dalam pemrograman prosedural: Program = algoritma + struktur data; modularisasi program; scope dan life time variabel;  Mesin abstrak, dan tipe data abstrak : dasar, tabel, matriks, stack, queue, list, binary tree; konsep, primitif, operasi, dan pemakaian library. ADT dengan berbagai variasi representasi. Algoritma yang relevan dengan masing-masing struktur data: sequential processing (traversal, searching) sorting, insert, update delete, reverse   Pemrograman prosedural dengan bahasa C & studi kasus",
+      "outcomes": "Mahasiswa mengenali dan memahami konsep dan dasar struktur dataMahasiswa mampu untuk memakai paket struktur data yang tersediaMahasiswa mambu mendesain dan mengimplementai paket struktur dataMahasiswa mampu melakukan problem solving (dengan pemrograman prosedural, berbahasa C, skala menengah) menggunakan struktur data, baik menggunakan API/library yang tersedia ataupun dengan membangun sendiri library (from the scratch)Mahasiswa siap untuk mempelajari pemrograman berorientasi objek (OOP)"
+    },
+    "en": {
+      "name": "Algorithm & Data Structure",
+      "description": "This course offers (1) the concepts of algorithms and data structures commonly used in the field of informatics/computer science, (2) skill in designing and using algorithms and data structure for problem solving, and (3) developing programs in procedural paradigm using C programming language.",
+      "syllabus": "Basic concepts of data structure in procedural programming: Program = algorithm + data structure; program modularization; variable scope and life time; Abstract machine, and abstract data type: basic ADT, table, matrix, stack, queue, list, binary tree; concepts, primitive, operation, and the use of library. ADT in various representation Algorithms relevant to each data structure: sequential processing (traversal, searching) sorting, insert, update delete, reverse   Procedural programming using C & case study",
+      "outcomes": ""
+    }
+  }
+}

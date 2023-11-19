@@ -1,0 +1,18 @@
+{
+  "id": "KU1072",
+  "points": "2 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pengenalan Teknologi Informasi B",
+      "description": "Mata kuliah ini memberikan kecakapan dasar teknologi informasi untuk kehidupan akademik dan profesi pesertanya serta kemampuan berpikir komputasional melalui pemrograman dasar dalam paradigma prosedural",
+      "syllabus": "Berpikir komputasional melalui pemrograman komputer dasar dengan paradigma prosedural, terdiri atas:  -\tMakna dan teknik berpikir komputasional -\tPemrograman komputer dengan paradigma prosedural -\tBeberapa construct dasar dalam pemrograman prosedural: I/O, sekuens, analisis kasus, pengulangan, subprogram, array/matriks, file eksternal -\tMenuliskan alur berpikir prosedural dengan flow chart dan notasi algoritmik -\tSintaks bahasa pemrograman bahasa pemrograman (C/Pascal/Fortran/dll) Pengantar teknologi informasi, terdiri atas: -\tSistem dan organisasi komputer (perangkat keras dan lunak) serta jaringan telekomunikasi -\tPemanfaatan teknologi inforamsi dalam berbagai aspek kehidupan, khususnya dalam kehidupan akademik dan profesional. -\tImplikasi penggunaan teknologi informasi dalam berbagai aspek kehidupan manusia.",
+      "outcomes": ""
+    },
+    "en": {
+      "name": "Introduction to Information Technology B",
+      "description": "This course provides students with fundamental knowledge and skill in information technology for their academic life and profession as well as the computational way of thinking through the basics of programming in procedural paradigm.",
+      "syllabus": "Computational Thinking through basic computer programming with procedural paradigm, which consists of: - The meaning and methods in computational thinking - Computer programming with procedural paradigm - Basic constructs in procedural programming: I/O, sequence, case analysis, loop, sub program, array/matrix, external files. - Writing procedural thinking with flow chart and algorithm notation in C/Pascal/Fortran etc Introduction of Information Technology, consisting of: - Computer system and organization (hardware and software) as well as telecommunication network - Usage of information technology in various aspects of life, particularly in academic and profession - Implication of information technology in various aspect of human life.",
+      "outcomes": ""
+    }
+  }
+}

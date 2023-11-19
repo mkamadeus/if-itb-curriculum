@@ -1,0 +1,18 @@
+{
+  "id": "FI1201",
+  "points": "4 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Fisika Dasar IIA",
+      "description": "Listrik Magnet,  Gelombang Elektromagnetik dan Fisika Modern",
+      "syllabus": "Elektrostatik (medan dan gaya listrik) Hukum Gauss,  Energi Potensial Listrik,  Potensial Listrik. Kapasitor. Magnetostatik, GGL Induksi Magnetik. Arus Bolak-Balik,  Gelombang Elektromagnetik. Fisika Modern, Fisika Atom",
+      "outcomes": "Mengerti konsep dan prinsip dasar dalam elektromagnetisme dan fisika modernMenunjukkan kemampuan untuk melakukan eksperimen dalam mengukur besar medan magnet dalam solenoidMenunjukkan kemampuan melakukan eksperimen dalam mengukur arus dan potensial efektif dari rangkaian arus bolak balikDapat menggunakan amperemeter dan voltmeter untuk sumber arus searah dan dapat menganalisa jembatan WheatstoneMenunjukkan kemampuan melakukan eksperimen interferensi dan difraksiDapat menghitung gaya dan medan listrik yang dihasilkan oleh muatan diskrit dan kontinu menggunakan hukum Coulomb dan hukum GaussDapat menghitung energi potensial dan potensial listrik di sekitar muatan diskrit dan kontinu, dan mengaplikasikannya ke sistem kapasitorDapat menghitung medan magnet yang dihasilkan oleh arus listrik (hukum Biot Savart dan hukum Ampere)Dapat mengaplikasikan hukum induksi magnetik Faraday dan Lenz untuk menghasilkan electromotive Force (EMF)Dapat memecahkan masalah rangkaian arus searah dan bolak-balikMenjelaskan besaran-besaran gelombang elektromagnetik, energi gelombang, daya gelombang dan intensitas gelombang.Memecahkan persoalan pola interferensi N celah dan pola difraksi untuk celah lebar dan N celah (interferensi-difraksi)Dapat memecahkan problem relativitas khusus Einstein dan dualism partikel-gelombangDapat menganalisa eksperimen Fisika Modern (efek fotolistrik)Dapat mendesain alat sederhana menggunakan konsep Fisika dasar IIA (RBL)"
+    },
+    "en": {
+      "name": "Elementary Physics IIA",
+      "description": "Electricity and Magnetism, Electromagnetic wave and Modern Physics",
+      "syllabus": "Electrostatic (electric field, Coulomb Law) ,  Electric Potential Energy,  Electrical Potential,  Capacitor. Magnetostic, Electromotive force , Alternating Current,  Electromagnetic Wave, Modern Physics, Atomic Physics",
+      "outcomes": ""
+    }
+  }
+}

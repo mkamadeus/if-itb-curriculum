@@ -1,0 +1,18 @@
+{
+  "id": "IF4092",
+  "points": "4 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Tugas Akhir II",
+      "description": "Pada mata kuliah ini, mahasiswa melakukan analisis masalah dan solusi, desain, implementasi solusi, serta presentasi tulisan dan lisan atas tugas akhir yang dikerjakannya.",
+      "syllabus": "Topik-topik yang dibahas mencakup: gambaran umum tugas akhir, kerja mandiri, penulisan laporan tugas akhir, isu plagiarisme, presentasi, dan penulisan abstrak tugas akhir.",
+      "outcomes": "Mahasiswa dapat secara mandiri memecahkan masalah yang telah diidentifikasikan dalam kuliah Tugas Akhis I dan Seminar.Mahasiswa mampu mempresentasikan solusi pemecahan masalah tugas akhirnya baik secara lisan maupun tulisan."
+    },
+    "en": {
+      "name": "Final Work II",
+      "description": "In this course, students perform analysis of the problem and solution of the final project, design and implementation of the solution, as well as presentation of the solution orally and in writing.",
+      "syllabus": "List of topics covered in this course includes overview of the final project, independent work, final project report writing, plagiarism issue, presentation, and writing abstract of the final project.",
+      "outcomes": ""
+    }
+  }
+}

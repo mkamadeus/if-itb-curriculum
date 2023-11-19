@@ -1,0 +1,18 @@
+{
+  "id": "IF4090",
+  "points": "2 (2) SKS",
+  "syllabus": {
+    "id": {
+      "name": "Kerja Praktek",
+      "description": "Pada mata kuliah ini, mahasiswa melaksanakan praktek “bekerja” (disebut dengan Kerja Praktek) pada sebuah perusahaan. Proses pelaksanaan kerja di instansi Kerja Praktek ini biasanya dilakukan pada liburan setelah semester 6,  sekitar akhir bulan Mei sampai awal Agustus, selama minimal 10 minggu.",
+      "syllabus": "Pada mata kuliah ini, mahasiswa melaksanakan praktek “bekerja” (disebut dengan Kerja Praktek) pada sebuah perusahaan. Proses pelaksanaan kerja di instansi Kerja Praktek ini biasanya dilakukan pada liburan setelah semester 6,  sekitar akhir bulan Mei sampai awal Agustus, selama minimal 10 minggu.",
+      "outcomes": "Mahasiswa dapat mempraktekkan pengetahuan serta ketrampilannya dalam dunia nyata, khususnya dalam bidang informatika.Mahasiswa dapat melihat, mengalami sendiri dan/ atau melaksanakan praktek-praktek keinformatikaan yang ada di masyarakat, termasuk untuk mengenal cara kerja pada dunia nyata.Mahasiswa memiliki dan dapat menunjukkan sikap kerja yang professional dan efektif.Mahasiswa dapat mempresentasikan kegiatan kerja praktek dalam sebuah seminar dan berkomunikasi secara efektif.Mahasiswa dapat mengambil lesson learnt untuk terjun ke dunia kerja."
+    },
+    "en": {
+      "name": "Industrial Internship",
+      "description": "-",
+      "syllabus": "-",
+      "outcomes": "--"
+    }
+  }
+}

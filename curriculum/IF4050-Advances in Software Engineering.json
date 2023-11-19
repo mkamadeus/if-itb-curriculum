@@ -1,0 +1,18 @@
+{
+  "id": "IF4050",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Advances in Software Engineering",
+      "description": "-",
+      "syllabus": "-",
+      "outcomes": ""
+    },
+    "en": {
+      "name": "Rekayasa Perangkat Lunak Lanjut",
+      "description": "This course explains various advances in software engineering area. These are ranging from its development process lifecycle: Analysis, design & modeling construction, testing, release and maintenance: and also various important topics such as: privacy & security, large -scale software system, model-driven, quality",
+      "syllabus": "-",
+      "outcomes": "Student are aware with advances (techniques, tools, approaches) in engineering a softwareStudent are able to learn, independently, further those advancesStudent are abble to apply the advances to a lab-scale software project"
+    }
+  }
+}

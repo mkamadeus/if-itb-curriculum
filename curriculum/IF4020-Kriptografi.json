@@ -1,0 +1,18 @@
+{
+  "id": "IF4020",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Kriptografi",
+      "description": "Pengantar, serangan pada kriptografi, algoritma kriptografi klasik, kriptanalisis, stream cipher dan block cipher, sistem kriptografi kunci-publik, fungsi hash dan MAC, tanda tangan digital, protokol kriptografi, infrastruktur kunci publik, manajemen kunci, steganografi dan watermarking, kriptografi visual.",
+      "syllabus": "- Pengantar kriptografi  - Serangan (attack) pada kriptografi - Landasan matematika untuk kriptografi \t - Algoritma kriptografi klasik (Caesar cipher, Vigenere, Playfair, dll) - Kriptanalisis dengan teknik analisis frekuensi - Algoritma kriptografi modern\t - Stream cipher dan block cipher. - Beberapa algoritma cipher blok (DES, TDES, GOST, RC5, AES) - Beberapa algoritma stream blok (RC4, A5) - Kriptografi kunci publik\t - Algoritma-algoritma kriptografi kunci-publik (RSA, ElGamal, Diffie-Hellman, Knapsack). - Pembangkit bilangan acak. - Fungsi hash dan MAC - Tanda-tangan digital (digital signature) - Protokol kriptografi - Public Key Infrastructure (PKI) - Manajemen kunci\t - Kriptografi dalam kehidupan sehari-hari - Steganografi dan watermarking - Kriptografi visual.",
+      "outcomes": "Mahasiswa diharapkan mampu: 1. Memilih teknik yang sesuai untuk mengamankan pesan, baik pesan yang dikirim maupun pesan tersimpan (arsip) 2. Membuat program aplikasi untuk tujuan keamanan pesan."
+    },
+    "en": {
+      "name": "Cryptography",
+      "description": "Introduction, attacks to cryptography, classical cryptography algorithms, cryptanalysis, stream ciphers and block ciphers, public-key cryptography system,  hash function and MAC, digital signature, cryptography protocols, public-key infrastructure (PKI) key management, steganography and watermarking, visual cryptography.",
+      "syllabus": "- Introduction to cryptography.  - Attacks to cryptography. - Mathematical foundation for cryptography. \t - Classical cryprography (Caesar cipher, Vigenere, Playfair, etc.) - Cryptanalysis using frequemcy analysis. - Modern cryptography.\t - Stream cipher and block cipher. - Some block ciphers (DES, TDES, GOST, RC5, AES) - Some stream ciphers (RC4, A5) - Public-key cryptography.\t - Some public-key algorithms (RSA, ElGamal, Diffie-Hellman, Knapsack). - Random generator. - Hash function and MAC - Digital signature - Cryptography protocols - Public Key Infrastructure (PKI) - Key management.\t - Cryptography in daily life. - Steganography and watermarking - Visual cryptography.",
+      "outcomes": ""
+    }
+  }
+}

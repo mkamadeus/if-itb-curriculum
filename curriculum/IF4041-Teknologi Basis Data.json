@@ -1,0 +1,18 @@
+{
+  "id": "IF4041",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Teknologi Basis Data",
+      "description": "Mata kuliah ini memberikan wawasan dan pengetahuan mengenai pemafaatan lebih lanjut dari data yang tersimpan di dalam basis data, terutama dalam mendukung business intelligence.",
+      "syllabus": "Mata kuliah ini memberikan wawasan dan pengetahuan mengenai pemafaatan lebih lanjut dari data yang tersimpan di dalam basis data, terutama dalam mendukung business intelligence. Materi yang diberikan dapat bervariasi, mulai dari pemanfaatan data warehouse sebagai sarana untuk pengumpulan data bagi eksekutif, proses analisis terhadap data untuk menghasilkan data pendukung dalam pengambilan keputusan, pencarian pengetahuan dari data yang ada, hingga pemrosesan terhadap data berukuran besar.",
+      "outcomes": "- Mahasiswa memiliki pemahaman terhadap setiap topik yang diberikan- Mahasiswa mampu melakukan eksplorasi lebih lanjut untuk menerapkan masing-masing topik apa bila diperlukan"
+    },
+    "en": {
+      "name": "Data Base Technology",
+      "description": "This course provides insight and knowledge on further processing of the data stored in the database, especially in business intelligence.",
+      "syllabus": "This course provides insight and knowledge on further processing of the data stored in the database, especially in business intelligence. The topics can be varied, from implementing data warehouse as a way to gather data for the executives, on-line analytical process for decision support systems, knowledge discovery in database by means of data mining, and processing big data.",
+      "outcomes": ""
+    }
+  }
+}

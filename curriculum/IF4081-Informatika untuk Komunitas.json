@@ -1,0 +1,18 @@
+{
+  "id": "IF4081",
+  "points": "3 (2) SKS",
+  "syllabus": {
+    "id": {
+      "name": "Informatika untuk Komunitas",
+      "description": "Mata kuliah ini dirancang dalam bentuk kegiatan mandiri dan proaktif dari mahasiswa. Mahasiswa dapat secara bebas mengusulkan pengembangan aplikasi yang sudah diinisiasi penerapannya untuk masyarakat, atau mengembangkan aplikasi untuk lomba skala internasional atau lomba skala nasional yang tingkat kompetisinya tinggi, atau mengembangkan aplikasi yang memberikan dampak besar terhadap komunitas, atau menghasilkan HAKI. Detail pelaksanaan matakuliah ini akan dituangkan dalam petunjuk pelaksanaan kuliah.",
+      "syllabus": "Mata kuliah ini dirancang dalam bentuk kegiatan mandiri dan proaktif dari mahasiswa. Mahasiswa dapat secara bebas mengusulkan pengembangan aplikasi yang sudah diinisiasi penerapannya untuk masyarakat, atau mengembangkan aplikasi untuk lomba skala internasional atau lomba skala nasional yang tingkat kompetisinya tinggi, atau mengembangkan aplikasi yang memberikan dampak besar terhadap komunitas, atau menghasilkan HAKI. Detail pelaksanaan matakuliah ini akan dituangkan dalam petunjuk pelaksanaan kuliah.",
+      "outcomes": "Mahasiswa mampu mengembangkan dan menerapkan aplikasi yang memiliki dampak bagi masyarakat.Mahasiswa mampu menunjukkan karakter kreatif dan inovatif dalam menerapkan informatika di masyarakat.Mahasiswa mampu menuliskan laporan hasil kerja dan mempresentasikankan secara efektif."
+    },
+    "en": {
+      "name": "Informatics for Community",
+      "description": "-",
+      "syllabus": "-",
+      "outcomes": "---"
+    }
+  }
+}

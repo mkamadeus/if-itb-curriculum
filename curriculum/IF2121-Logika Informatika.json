@@ -1,0 +1,18 @@
+{
+  "id": "IF2121",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Logika Informatika",
+      "description": "Kuliah ini membahas bagaimana proses penalaran manusia ditirukan oleh komputer, dari kumpulan fakta yang ada diturunkan menjadi fakta baru.",
+      "syllabus": "Materi yang diberikan pada kuliah ini mencakup pengantar computational logic, representasi propositional logic mencakup sintaks dan semantic, representasi relational logic mencakup sintaks dan semantic, berbagai teknik pembuktian dari pendekatan semantic reasoning maupun proof method untuk propositional logic dan relational logic, serta paradigm pemrograman deklaratif yang menggunakan dasar relational logic untuk melakukan penalaran.",
+      "outcomes": "- Mahasiswa mampu memahami bahwa logika adalah salah satu representasi pengetahuan untuk menyelesaikan persoalan berbasis komputer - Mahasiswa mampu memformulasikan suatu persoalan ke dalam representasi logika (proposisi atau relasional) dan menyelesaikannya dengan proses penalaran berbasis semantic atau dengan metode pembuktian - Mahasiswa mampu membangun aplikasi penalaran sederhana dengan paradigm pemrograman deklaratif"
+    },
+    "en": {
+      "name": "Logic of Informatics",
+      "description": "This course discusses the approach to conduct computer based reasoning, how to entail new fact from given facts.",
+      "syllabus": "The topics discussed in this course are introduction to computational logic, propositional and relational logic representation which consists of syntax and semantic, reasoning for both representations from semantic reasoning approach and proof method approach, and declarative programming paradigm as one paradigm that implement relational logic in solving problems.",
+      "outcomes": ""
+    }
+  }
+}

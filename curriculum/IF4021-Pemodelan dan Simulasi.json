@@ -1,0 +1,18 @@
+{
+  "id": "IF4021",
+  "points": "2 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pemodelan dan Simulasi",
+      "description": "simulasi kejadian diskrit dan kontinu, tinjauan statistik, pembangkit bilangan random , penggunaan sistem antrian, simulasi beorientasi proses, sistem kompleks, simulasi berbasis agent, simulasi paralel, simulasi berbasis web.",
+      "syllabus": "Konsep model dan simulasi, jenis-jenis simulasi meliputi simulasi kejadian diskrit dan simulasi kejadian kontinu, tinjauan ulang statistik, pembangkit bilangan random dan variabel random, penggunaan simulasi antrian dalam kehidupan nyata, SIMLIB, simulasi berorientasi proses, JavaSIM,  pemodelan dan simulasi sistem kompleks, Netlogo,  simulasi berbasis agent, simulasi paralel, simulasi berbasis web.",
+      "outcomes": "Memahami konsep simulasi sistem diskrit dan kontinueMembuat model dari sistem nyata dan melakukan simulasimenganalisa hasil-hasil simulasi dan menggunakannya dalam pengambilan keputusan."
+    },
+    "en": {
+      "name": "Modeling and Simulation",
+      "description": "discrete event and continuous simulation, review of statistics, random number generator, queuing system applications , process oriented simulation, complex system, agent based simulation, parallel simulation, web based simulation.",
+      "syllabus": "Concept of model and simulation, simulation types including discrete and continuous simulation, review of statistics, random number generator and random variable, the use of queueing simulation in real life, SIMLIB, process oriented simulation, JavaSIM,  modeling and simulation of complex system, Netlogo, agent based simulation, parallel simulation, web based simulation.",
+      "outcomes": "understanding the concept of discrete and continuous event simulationdeveloping a model of the real system and doing simulation.analyzing and using the simulation results for decision making"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "IF2210",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pemrograman Berorientasi Objek",
+      "description": "Mata kuliah PBO memberikan pemahaman atas konsep dan keahlian dalam menmbangun program dengan paradigma berorientasi objek dengan 3 bahasa pemrograman.",
+      "syllabus": "Konsep dan praktek pengembangan program aplikasi dan komponen perangkat lunak dengan OOP menggunakan fitur lanjut OOP, dan praktek menggunakan tiga bahasa pemrograman (C++, Java, C#) Paradigma berorientasi objek: kelas, objek, masa hidup objek, operasi-dasar objek, generik, inheritance dan polymorphism, exception and assertion Konsep dan implementasi tipe data abstrak(ADT) mesin abstrak, dan proses in OOP (Pemrograman OO) dengan 3 bahasa yang dipilih (C++, Java, C#).",
+      "outcomes": "Students understand the concepts of OOP paradigm such as class, object, encapulation, message passing, object life time, basic object-operation, inheritace & polymorphism, genericity, and the concepts of abtsract data type , engine and process and tehir implementation in OOP.Students able to develop medium-scale programs using OOP paradigm using three OOP languages , i.e. C , Java, C"
+    },
+    "en": {
+      "name": "Object Oriented Programming",
+      "description": "This course offers the concepts of OOP and skill in developing programs using OO paradigm using 3 programming languages.",
+      "syllabus": "Concepts & practices on implementing software & SW component based on OOP using advanced features of OOP , and practices using three OOP languages (C++, Java, C#) Object Oriented Paradigm: Class, Object; Object life time (creation, allocation, destruction) Object Basic-Operations (attachment, comparison) Genericity; Inheritance & polymorphism; Exception;  Concept and implementaion of Abstract data Type, Engine, Process in OOP;  OO programming using three selected languages, i.e. C++, Java, C#",
+      "outcomes": ""
+    }
+  }
+}

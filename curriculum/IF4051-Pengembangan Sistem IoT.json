@@ -1,0 +1,18 @@
+{
+  "id": "IF4051",
+  "points": "2 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pengembangan Sistem IoT",
+      "description": "Matakuliah ini mengajarkan kepada mahasiswa konsep-konsep dasar Internet of Things (IoT) dan keterampilan untuk membangun sistem IoT secara end-to-end.",
+      "syllabus": "Topik-topik yang dibahas dalam matakuliah ini mencakup ekosistem dan arsitektur IoT; layer-layer dalam IoT, yaitu layer device, gateway, dan cloud; protocol-protokol transport yang digunakan dalam sistem IoT; pengelolaan, analisis, dan visualisasi data IoT; Web of Things; aspek keamanan dalam sistem IoT; dan IoT Industri. Matakuliah ini juga mengajarkan keterampilan yang diperlukan untuk membangun sebuah sistem IoT secara end-to-end.",
+      "outcomes": "Mahasiswa mampu memahami dan mengikuti perkembangan teknologi IoT pada dunia global.Mahasiswa memahami dan mampu menjelaskan konsep-konsep dasar teknologi IoTMahasiswa mampu bekerjasama dan mengembangkan aplikasi berbasis IoT secara end-to-end."
+    },
+    "en": {
+      "name": "IoT System Development",
+      "description": "This course provides students with the main concepts of Internet of Things (IoT) and the skills to develop end-to-end IoT systems.",
+      "syllabus": "Topics covered in this course include IoT ecosystems and architecture; IoT device, gateway, and cloud layers; transport protocols used in IoT systems; IoT data management, analytic, and visualization; Web of Things; security aspects in IoT systems; and Industrial IoT (Industry 4.0) This course also teaches skills necessary for students to develop an end-to-end IoT system.",
+      "outcomes": "Students understand and are able to follow the state-of-the-art IoT technology.Students understand and are able to explain basic IoT concepts.Students are able to work in teams to develop end-to-end IoT applications."
+    }
+  }
+}

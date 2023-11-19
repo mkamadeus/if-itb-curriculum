@@ -1,0 +1,18 @@
+{
+  "id": "IF2213",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pemrograman untuk Analitika Data",
+      "description": "Pengantar bahasa pemrograman data analytics, tabel dan dataframe, data preparation/tranformation, tipe atribut, seleksi dan manipulasi data, descriptive statistics, exploratory data analytics, regression, data visualization",
+      "syllabus": "Pengantar bahasa pemrograman data analytics, tabel dan dataframe, data preparation/transformation, tipe atribut, seleksi dan manipulasi data, descriptive statistics, exploratory data analytics, regression, data visualization",
+      "outcomes": "Mahasiswa memahami konsep analisis dataMahasiswa dapat memprogram skala menengah dalam melakukan operasi dan eksplorasi terhadap dataframe/data series, antara lain join, selection, preprocessing, konversi format dataMahasiswa dapat memprogram skala menengah untuk menghasilkan kesimpulan berdasarkan analisis terhadap data dengan menggunakan korelasi, regresi sederhana, dan visualisasi data"
+    },
+    "en": {
+      "name": "Programming for Data Analytics",
+      "description": "Introduction to data analytics programming language, table and data frame, data preparation/trasformation, attribute types, data selection and manipulation, descriptive statistics, exploratory data analytics, regression, data visualization",
+      "syllabus": "Introduction to data analytics programming language, table and data frame, data preparation/transformation, attribute types, data selection and manipulation, descriptive statistics, exploratory data analytics, regression, data visualization",
+      "outcomes": ""
+    }
+  }
+}

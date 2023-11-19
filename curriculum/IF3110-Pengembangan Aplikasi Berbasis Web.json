@@ -1,0 +1,18 @@
+{
+  "id": "IF3110",
+  "points": "2 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pengembangan Aplikasi Berbasis Web",
+      "description": "Perkuliahan ini mengajarkan prinsip-prinsip dasar Intrenet dan Aplikasi Internet. Kuliah ini mengajarkan sejumlah teknologi yang dapat digunakan untuk membangun sebuah Aplikasi Internet.",
+      "syllabus": "Perkulihan ini memberikan pengantar dasar perihal Internet dan Aplikasi berbasis Internet. Pada kuliah ini mahasiswa mempelajari sejumlah teknologi (contoh: HTML 5, CSS, Java Script, JAVA, PHP) dan teknik (AJAX, Offline-storage) untuk membangun aplikasi berbasis internet. Mahasiswa juga diajarkan untuk memahami karakteristik setiap teknologi dan trade-off-nya. Mahasiswa juga diajarkan untuk menganalisis berbagai aspek kualitas pada aplikasi internet, seperti:  usability, security, dan performance. Kuliah ini juga mencakup ilmu bagaimana merancang sebuah protokol (pada Application Layer) yang menggunakan Internet.",
+      "outcomes": "Mahasiswa memahami prinsip dasar bagaimana Internet dan Aplikasi Internet berkerjaMahasiswa dapat membangun sebuah aplikasi web dengan memanfaatkan sejumlah teknologi, baik disisi server atau clientMahasiswa dapat mendesain sebuah aplikasi internet dengan memperhatikan aspek kualitas (co: keamanan, kinerja, usability)"
+    },
+    "en": {
+      "name": "Web based Application Development",
+      "description": "This course teaches basic principles of how Internet works. Moreover, the course basic principles of an Internet Application and how to develop one.",
+      "syllabus": "This course gives some introduction about Internet and Internet Application. This course concerns,  mainly, on learning various technologies (e.g., HTML5, CSS, Java Script, JAVA, PHP) and techniques (AJAX, Offline-storage) to build Internet Applications. Moreover, students are required to understand the characteristics of each technologies and their trade-offs. The students also taught to analyze various quality aspects of an Internet Application, such as: usability, security, and performance. The course also covers how to design a protocol (at Application Layer) that uses Internet.",
+      "outcomes": ""
+    }
+  }
+}

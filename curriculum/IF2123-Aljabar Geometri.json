@@ -1,0 +1,18 @@
+{
+  "id": "IF2123",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Aljabar Geometri",
+      "description": "Isi mata kuliah adalah ilmu aljabar dan geometri yang diperlukan untuk mata kuliah lainnya di IF",
+      "syllabus": "Aljabar elementer, aljabar bilangan kompleks, aljabar vektor, aljabar quaternion, matriks dan transformasi linier, aljabar matriks, sistem persamaan linier, aljabar geometri, pencerminan dan rotasi, aljabar geometri untuk geometri, geometri konformal",
+      "outcomes": "Mahasiswa mampumemahami berbagaiteori aljabartermasuk di dalamnyaaljabar geometriMahasiswa mampumenyelesaikanmasalah geometrisecara aljabar"
+    },
+    "en": {
+      "name": "Geometric Algebra",
+      "description": "This course offers algebra and geometry science that will be used as the fundamental for other related courses in the study program",
+      "syllabus": "elementary algebra, complex number algebra, vector algebra, quaternion algebra, matrix and linear transformation, matrix algebra, linear equation system, geometry algebra, rotation, conformal geometry",
+      "outcomes": ""
+    }
+  }
+}

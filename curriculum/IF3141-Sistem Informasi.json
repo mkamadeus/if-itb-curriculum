@@ -1,0 +1,18 @@
+{
+  "id": "IF3141",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Sistem Informasi",
+      "description": "Pada kuliah ini diberikan pengertian, pemahaman dan pengetahuan mengenai konsep sistem informasi dan peranannya dalam meningkatkan keunggulan kompetitif organisasi",
+      "syllabus": "Pada kuliah ini diberikan pengertian dan pengetahuan tentang jenis, fungsi, struktur dan peran sistem informasi berbasis komputer pada suatu organisasi. Selain itu mahasiswa juga diberikan kemampuan untuk melakukan analisis dan penetapan kebutuhan informasi organisasi, mentransformasikan kebutuhan kedalam rancangan sistem informasi yang sesuai dan menerapkannya ke dalam bentuk prototipe, sehingga organisasi dan manajemen akan lebih produktif, efisien, dan efektif sehingga diharapkan akan memiliki keunggulan untuk berkompetisi.",
+      "outcomes": "Mahasiswa memahami konsep sistem informasi berbasis komputer, dan mampu melakukan analisis kebutuhan dan menetapkan kebutuhan informasi untuk suatu organisasi, serta merancang dan mengimplementasikan (dalam bentuk prototipe)"
+    },
+    "en": {
+      "name": "Information System",
+      "description": "This course provides explanation, comprehension, and knowledge about information systems concept and its role in improving organization competitive advantage",
+      "syllabus": "This course provides explanation and knowledge about types, function, structure, and role of computer-based information systems in an organization. Students get the ability to analyze information needs, transform the need into a plan, and apply the plan into information system prototype, in order to improve organization productivity, efficiency, and effectivity, to improve organization’s competitive advantage.",
+      "outcomes": "Students understand the concept of computer-based information systems, and are able to analyze the requirements and determine information needs for an organization, as well as design and implement it (in the form of prototypes)"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "KU1001",
+  "points": "2 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Olah Raga",
+      "description": "Pada kuliah ini mahasiswa dibekali pengetahuan tentang pentingnya berolahraga dengan diberikan teori tentang kesehatan, Kebugaran jasmani, dan Olah raga, Gizi olah raga, Prinsip-prinsip Pelatihan, dan Latihan Kondisi Fisik sehingga saat kuliah praktek mampu berolahraga dengan benar dan tujuan pelatihan dapat tercapai.",
+      "syllabus": "Pada kuliah ini mahasiswa dibekali pengetahuan tentang teori dan praktek olahraga yang meliputi kesehatan, kebugaran, dan Olah raga, Gizi Olah raga, Prinsip-prinsip Pelatihan, Latihan Kondisi Fisik dan berbagai macam game cabang olahraga",
+      "outcomes": "Setelah mengikuti kuliah ini diharapkan mahasiswa mampu menjaga dan meningkatkan derajat kebugaran jasmani dan mampu memahami nilai-nilai positif dari olahraga serta dapat mengaplikasikannya dalam kehidupan di kampus atau masyarakat umum"
+    },
+    "en": {
+      "name": "Sports",
+      "description": "The course includes the theory and practice. The theory involves the importance of sports, the body fitness, nutrition, sports and the principles of training. The Practice includes the physical exercise.",
+      "syllabus": "The course includes the theory and practice. The theory involves the importance of sports, the body fitness, nutrition, sports and the principles of training and various games of sport. The Practice includes the physical exercise",
+      "outcomes": "After attending this course, students are expected to be able to maintain and improve their physical fitness level and be able to understand the positive values of the sport and be able to apply it to life on campus or the general public."
+    }
+  }
+}

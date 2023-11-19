@@ -1,0 +1,18 @@
+{
+  "id": "IF4074",
+  "points": "2 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pembelajaran Mesin Lanjut",
+      "description": "Kuliah ini membahas berbagai teknik lanjut pembelajaran oleh mesin serta pengenalan pola. Pendekatan yang diberikan mencakup ANN, Feature Selection, Feature Extraction Generative Models.",
+      "syllabus": "Materi yang tercakup di dalamnya meliputi: Artificail Neural Network/Concolutional Artificail Neural Network,  Fungsi Output dan Model Parameter, Feature Selection, Feature Extraction, Imbalanced Data, Fuzzy Clustering,  Generative Model, Experiments Machine Learning, Application of Machine Learning in Domains",
+      "outcomes": "Mahasiswa mampu mengimplementasikan algoritma ANN dan CNNMahasiswa memahami dan mampu mengimplementasikan solusi terkait fungsi output dan model parameter, feature selection dan feature extractionMahasiswa memahami fuzzy clustering and generative model, dan mampu mengaplikasikan dengan tepatMahasiswa mampu menjelaskan persoalan imbalanced data dan penanganannya"
+    },
+    "en": {
+      "name": "Advanced Machine Learning",
+      "description": "-",
+      "syllabus": "-",
+      "outcomes": ""
+    }
+  }
+}

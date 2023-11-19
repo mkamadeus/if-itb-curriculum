@@ -1,0 +1,18 @@
+{
+  "id": "IF2124",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Teori Bahasa Formal dan Otomata",
+      "description": "Mata kuliah TBFO memberikan pengetahuan pendukung dan keahlian dalam merancang Finite Automata, Regular Expression, dan Pushdown Automata serta pengantar Turing Machine",
+      "syllabus": "Bahasa formal dalam model komputasi, proof technique, regular language, finite automata (deterministic, nondeterministic, nondeterministic with epsilon),  konversi antar finite automata, regular expression, context free languages, pushdown automata, berbagai aplikasi automaton, turing machine.",
+      "outcomes": ""
+    },
+    "en": {
+      "name": "Formal Language Theory and Automata",
+      "description": "This course offers supporting knowledge and skill in designing Finite Automata, Regular Expression, Pushdown Automata and Turing Machine.",
+      "syllabus": "Formal Language in computational model, proof technique, regular language, finite automata (deterministic, nondeterministic, nondeterministic with epsilon),  conversion between finite automata, regular expression, context free languages, pushdown automata, application of automaton and language theory, turing machine.",
+      "outcomes": "Students understand the concept, notation and application of automaton theory concept and formal language such as deterministic, non-deterministic, and their application in compiler, automaton hierarchy, and formal language theory related with complexity limits from practical problem.Students able to design automaton (finite automaton, push down automaton, turing machine) for a specific problem"
+    }
+  }
+}

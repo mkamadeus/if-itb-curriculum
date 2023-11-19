@@ -1,0 +1,18 @@
+{
+  "id": "IF4150",
+  "points": "2 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Rekayasa Perangkat Lunak Spesifik Domain",
+      "description": "Matakuliah ini memberikan dasar pengetahuan tentang produk, teknologi, tools dan proses/metodologi mengembangkan perangkat lunak di mana domain memegang peranan penting yang harus diperhatikan.",
+      "syllabus": "Kuliah ini memberikan pengetahuan mengenai topik-topik sehubungan dengan pengembangan perangkat lunak yang domainnya perlu mendapat perhatian khusus. Topik yang dicakup: pengertian domain, domain data modeling, software architecture for domain oriented software, domain driven software development, Domain Spesific Languages, Sharing from domain expert, Case studies.",
+      "outcomes": "Setelah lulus kuliah ini, mahasiswa mampu memahami pengembangan perangkat lunak yang domainnya memerlukan penanganan khusus, metodologi, teknik dan tools terkait domain oriented software development."
+    },
+    "en": {
+      "name": "Domain Specific Software Engineering",
+      "description": "This course provides fundamental knowledge, produck, technology, tools and development of software where domain has important role that must be considered.",
+      "syllabus": "Topics included domain, domain data modeling, software architecture for domain oriented software, domain driven software development, Domain Spesific Languages, Sharing from domain expert, Case studies.",
+      "outcomes": ""
+    }
+  }
+}

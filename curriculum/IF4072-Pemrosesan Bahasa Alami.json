@@ -1,0 +1,18 @@
+{
+  "id": "IF4072",
+  "points": "2 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pemrosesan Bahasa Alami",
+      "description": "Kuliah ini menjelaskan teori dasar dari tool pemrosesan bahasa alami, text mining, dan dialogue system. Teori dasar yang dimaksud meliputi algoritma dan arsitektur dari setiap sistem.",
+      "syllabus": "Kuliah ini berisi tool pemrosesan level leksikal (morphologically analyser, tokenisasi, POS tagger, word representation) sintaktikal (parser dependency dan constituent) semantic (dependency dan constituent) pragmatikal (reference resolution) serta tool text mining berupa text categorization (spam filtering, topic clustering, plagiarism detection, sentiment analysis) information extraction (named entity tagger dan relation extraction) text summarization, question answering, dialogue system dan machine translation.",
+      "outcomes": "Mahasiswa mampu menjelaskan berbagai teori mengenai tool pemrosesan bahasa alamiMahasiswa mampu menjelaskan berbagai teori mengenai text miningMahasiswa mampu merancang arsitektur system text miningMahasiswa mampu melakukan eksperimen pada aplikasi text mining menggunakan pendekatan statistik"
+    },
+    "en": {
+      "name": "Natural Language Processing",
+      "description": "The course describes the basic theory of natural language processing tool, text mining, and dialogue system; including the algorithm and architecture.",
+      "syllabus": "This course consists of natural language processing tool of lexical processing (morphologically analyser, tokenization, POS tagger, word representation) syntactical (dependency & constituent parser) semantic analyser (dependency and constituent) pragmatic (reference resolution) and text mining tool such as text categorization (spam filtering, topic clustering, plagiarism detection, sentiment analysis) information extraction (named entity tagger and relation extraction) text summarization, question answering, dialogue system and machine translation",
+      "outcomes": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "IF4070",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Representasi Pengetahuan dan Penalaran",
+      "description": "Kuliah ini berisi materi isu-isu terkait bagaimana pengetahuan dapat direpresentasikan secara simbolik agar dapat secara otomatis dilakukan proses penalaran.",
+      "syllabus": "Materi kuliah mencakup pengenalan, representasi berorientasi objek, deskripsi terstruktur, ontologi dan representasi dari pengetahuan suatu domain, representasi pengetahuan dalam konteks sosial, kombinasi objek dan rules, default & negation, penalaran temporal dan spasial, review SBP berbasis rule, penalaran berbasis model dan kasus, penalaran abduksi, penalaran kualitatif, review CSP, representasi aksi, penalaran dengan aksi, practical planning, abstraksi - reformulasi - dan aproksimasi",
+      "outcomes": "Mahasiswa mampu membandingkan antara berbagai jenis representasi pengetahuan terstruktur, dengan menunjukkan kelebihan dan kekurangan masing-masing representasiMahasiswa mampu menjelaskan perbedaan antara penalaran temporal dan penalaran spasialMahasiswa mampu menjelaskan perbedaan antara penalaran berbasis aturan/ rule, berbasis model, dan berbasis kasusMahasiswa mampu membuat sebuah SBP sederhana dengan suatu representasi pengetahuan dan proses penalaran yang sesuai dengan representasi tersebut"
+    },
+    "en": {
+      "name": "Knowledge Representation and Reasoning",
+      "description": "The course describe the issues related to symbolic knowledge representation and conduct automated reasoning",
+      "syllabus": "The course topics are introduction, object oriented representation, structured description, ontology and domain knowledge representation, social context knowledge representation, object and rules combination, default & negation, spatial and temporal reasoning, rule based system, model and case based reasoning, abduction reasoning, qualitative reasoning, review CSP, action representation, practical planning, abstraction – reformulation – approximation.",
+      "outcomes": "Students are able to compare between various types of structured representations of knowledge, by showing the strengths and weaknesses of each representationStudents are able to explain the difference between temporal reasoning and spatial reasoningStudents are able to explain the difference between rule-based, model-based, and case-based reasoningStudents are able to create a simple Rule Based System with a representation of knowledge and reasoning processes that are in accordance with that representation"
+    }
+  }
+}

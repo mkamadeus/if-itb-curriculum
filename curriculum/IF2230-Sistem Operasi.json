@@ -1,0 +1,18 @@
+{
+  "id": "IF2230",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Sistem Operasi",
+      "description": "Konsep sistem operasi, manajemen proses, manajemen memori, manajemen file dan device I/O, proteksi dan keamanan sistem komputer, sistem operasi untuk sistem terdistribusi.",
+      "syllabus": "Konsep sistem operasi, manajemen proses, manajemen memori, manajemen file dan device I/O, proteksi dan keamanan sistem komputer, sistem operasi untuk sistem terdistribusi.",
+      "outcomes": "Students are able to recognize the role and basic function of operating system correctly Students are able to demonstrate the advanced utilization of operating system Students are able to understand the concept underlying the design and implementation of operating system Students are able to analyze for comprehending particular design of operating system along with its impact againts the performance of operating system Students are able to demonstrate the skill for developing simple modules which support the functionality of the operating system"
+    },
+    "en": {
+      "name": "Operating System",
+      "description": "Operating system concepts, process management, memory management, I/O device and file management, computer system security and protection, operating system for distributed system.",
+      "syllabus": "Operating system concepts, process management, memory management, I/O device and file management, computer system security and protection, operating system for distributed system.",
+      "outcomes": ""
+    }
+  }
+}

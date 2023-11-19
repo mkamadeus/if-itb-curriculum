@@ -1,0 +1,18 @@
+{
+  "id": "IF4044",
+  "points": "2 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Teknologi Big Data",
+      "description": "Kuliah ini memberikan pengetahuan dan skill dalam pemanfaatan teknologi big data untuk melakukan pemrosesan dan analisis big data dengan berfokus pada persoalan volume, velocity, variety, veracity dan menghasilkan insight (value) untuk pengambilan keputusan.",
+      "syllabus": "Kuliah ini terdiri dari 2 bagian: konsep dan praktik. Konsep yang dibahas terkait: stream processing (velocity) data stream management system, database nosql dan in memory database, stack technology pada lingkungan big data processing termasuk Hadoop (isu volume) tantangan terkait perbedaan format (variety) dan kualitas data (veracity) serta konsep yang terkait bagaimana menghasilkan value melalui analytics dan visualization. Praktik: pemberian tugas besar yang growing dalam bentuk capstone project.",
+      "outcomes": "Mahasiswa dapat menjelasakan persoalan, tantangan dan solusi dalam big data analyticsMahasiswa dapat menghasilkan insight dari big data dan dapat menangani isu volume, velocity, variety dan veracity, menggunakan teknologi big data"
+    },
+    "en": {
+      "name": "Big Data Technology",
+      "description": "This course will give students knowledge and skill in utilizing big data technology for processing and analyzing big data, focusing on the issues: volume, velocity, variety, veracity, and generating insight (value) for decision making.",
+      "syllabus": "The course consists of two parts: concepts and practices. The concepts offered in this course include stream processing (velocity issues) data stream management system, nosql database, stack technology for big data processing including Hadoop (volume issues) challenge related to data variety, and data quality (veracity) and concepts related to generating value using data analytics and visualization. Practices: growing-project assignment (capstone project)",
+      "outcomes": "Students are able to explain problems, challenges and solutions of big data analyticsStudents are able to generate insight from big data and deal with the issues of volume, velocity, variety, veracity, using big data technology"
+    }
+  }
+}

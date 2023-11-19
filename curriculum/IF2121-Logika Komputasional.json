@@ -1,0 +1,18 @@
+{
+  "id": "IF2121",
+  "points": "2 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Logika Komputasional",
+      "description": "Kuliah ini membahas bagaimana proses penalaran manusia ditirukan oleh komputer, dari kumpulan fakta yang ada diturunkan menjadi fakta baru.",
+      "syllabus": "Materi yang diberikan pada kuliah ini mencakup pengantar computational logic, representasi propositional logic mencakup sintaks dan semantic, representasi relational logic mencakup sintaks dan semantic, berbagai teknik pembuktian dari pendekatan semantic reasoning maupun proof method untuk propositional logic dan relational logic, serta paradigm pemrograman deklaratif yang menggunakan dasar relational logic untuk melakukan penalaran.",
+      "outcomes": "Mahasiswa dapat menerjemahkan persoalan dalam bahasa alami ke alam representasi logika proposisional.Mahasiswa dapat menerjemahkan persoalan dalam bahasa alami ke dalam representasi logika relasional.Mahasiswa dapat membuktikan atau membuat kesimpulan dari fakta/premis yang ada/diberikan menggunakan bukti proposisional/relasional.Mahasiswa dapat membuktikan atau membuat kesimpulan dari fakta/premis yang ada/diberikan menggunakan resolusi proposisional/relasional.Mahasiswa dapat merancang dan mengimplementasikan sebuah program sederhana dalam bahasa Prolog untuk menyelesaikan persoalan sederhana, berdasarkan pada pembuktian teorema otomatis.Mahasiswa dapat mengevaluasi sebuah program prolog yang diberikan, berdasarkan pada persoalan yang diselesaikan."
+    },
+    "en": {
+      "name": "Computational Logic",
+      "description": "This course discusses the approach to conduct computer based reasoning, how to entail new fact from given facts.",
+      "syllabus": "The topics discussed in this course are introduction to computational logic, propositional and relational logic representation which consists of syntax and semantic, reasoning for both representations from semantic reasoning approach and proof method approach, and declarative programming paradigm as one paradigm that implement relational logic in solving problems.",
+      "outcomes": "Students are able to translate a natural language problem into propositional logic representation.Students are able to translate a natural language problem into relational logic representation.Students are able to prove or draw a conclusion from existing facts/ premises using propositional/ relational proof.Students are able to prove or draw a conclusion from existing facts/ premises using propositional/ relational resolution.Students are able to design and implement a simple program in Prolog to solve simple problem, based on automatic theorem proving.Students are able to evaluate an existing Prolog program, based on the problem to be solved."
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "KI1202",
+  "points": "2 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Kimia Dasar IIB",
+      "description": "Sifat-sifat larutan, kinetika kimia, kesetimbangan kimia, konsep asam-basa, kesetimbangan asam -basa, elektrokimia, reaksi nuklir.",
+      "syllabus": "Larutan ideal, sifat koligatif,  larutan elektrolit dan non-elektrolit, kuosien reaksi, tetapan kesetimbangan, prinsip Le Chatelier, faktor yang mempengaruhi kesetimbangan, energi bebas Gibbs dalam kesetimbangan, hukum laju, orde reaksi, waktu paro, faktor yang mempengaruhi laju reaksi, mekanisme reaksi, teori tumbukan dan keadaan transisi, teori asam-basa, pH, larutan penyangga, hidrolisis, reaksi asam-basa, Ksp, sel Volta, potensial reduksi standar, notasi sel, persamaan Nernst, sel elektrolisis, hukum Faraday, partikel penyusun inti atom, hukum laju peluruhan, waktu paro, tetapan laju peluruhan, reaksi inti fisi dan fusi, cacat massa, aplikasi radionuklida.",
+      "outcomes": "Mahasiswa mampu menjelaskan prinsip-prinsip kimia yang mendasari fenomena yang terjadi di alam sekitar."
+    },
+    "en": {
+      "name": "General Chemistry IIB",
+      "description": "Sifat-sifat larutan, kinetika kimia, kesetimbangan kimia, konsep asam-basa, kesetimbangan asam -basa, elektrokimia, reaksi nuklir.",
+      "syllabus": "Larutan ideal, sifat koligatif,  larutan elektrolit dan non-elektrolit, kuosien reaksi, tetapan kesetimbangan, prinsip Le Chatelier, faktor yang mempengaruhi kesetimbangan, energi bebas Gibbs dalam kesetimbangan, hukum laju, orde reaksi, waktu paro, faktor yang mempengaruhi laju reaksi, mekanisme reaksi, teori tumbukan dan keadaan transisi, teori asam-basa, pH, larutan penyangga, hidrolisis, reaksi asam-basa, Ksp, sel Volta, potensial reduksi standar, notasi sel, persamaan Nernst, sel elektrolisis, hukum Faraday, partikel penyusun inti atom, hukum laju peluruhan, waktu paro, tetapan laju peluruhan, reaksi inti fisi dan fusi, cacat massa, aplikasi radionuklida.",
+      "outcomes": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "IF3130",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Jaringan Komputer",
+      "description": "Pengantar ke jaringan computer, perangkat keras jaringan computer & data link layer, model dasar dari jaringan dgn switch, protocol kerja internet, layer transport, kendali congestion dan alokasi sumber daya, layer aplikasi dan keamanan jaringan",
+      "syllabus": "Pengantar ke jaringan computer, arsitektur jaringan computer, perangkat keras jaringan computer & data link layer, model dasar dari jaringan dgn switch, protocol kerja internet, layer transport (TCP/UDP) kendali congestion dan alokasi sumber daya, layer aplikasi dan keamanan jaringan",
+      "outcomes": ""
+    },
+    "en": {
+      "name": "Computer Networks",
+      "description": "Introductions to computer networks, computer network hardware & data link layer, basic model of switched networks, internetworking protocols, transport layer, congestion control and resource allocation, application layer and network security",
+      "syllabus": "Introductions to computer networks, computer network architecture, computer network hardware & data link layer, basic model of switched networks, internetworking protocols, transport layer (TCP/UDP) congestion control and resource allocation, application layer and network security",
+      "outcomes": "understands typical layered structure of computer network architectureunderstands the basic principles of medium access layerunderstands the principles of switched networks and reliable message deliveryunderstands the principles of routing and packet forwarding in IP networksbe able to configure LAN and IP networksbe able to implement networked application/simple client-server applications"
+    }
+  }
+}

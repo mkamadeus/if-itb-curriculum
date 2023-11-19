@@ -1,0 +1,18 @@
+{
+  "id": "IF4060",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Rekayasa Interaksi",
+      "description": "1. Prospek Rekayasa Interaksi, Model Rekayasa Kebergunaan, Pemodelan Interaksi, Pengenalan User Experience (UX) Pemodelan Dialog, Manajemen Error. 2. Eksplorasi Prospek Rekayasa Interaksi.",
+      "syllabus": "1. Prospek Rekayasa Interaksi, Model Rekayasa Kebergunaan, Pemodelan Interaksi, Pengenalan User Experience (UX) Pemodelan Dialog, Manajemen Error. 2. Eksplorasi Prospek Rekayasa Interaksi.",
+      "outcomes": "Mahasiswa mampu mendefinisikan prospek model interaksi dalam aktivitas pengembangan perangkat lunakMahasiswa memiliki pengalaman dalam merancang model interaksi untuk sebuah aplikasi dalam alur pengembangan produk."
+    },
+    "en": {
+      "name": "Interaction Engineering",
+      "description": "1. Prospect of Interaction Engineering, Usability Engineering Model, Interaction Modelling, Introduction to User Experience (UX) Dialog Modelling, Error Management. 2. Exploration of the prospects of Interaction Engineering.",
+      "syllabus": "1. Prospect of Interaction Engineering, Usability Engineering Model, Interaction Modelling, Introduction to User Experience (UX) Dialog Modelling, Error Management. 2. Exploration of the prospects of Interaction Engineering.",
+      "outcomes": "Students are able to define the prospect interaction model in software development activitiesStudents have experience in designing interaction model for an application in product development stream"
+    }
+  }
+}

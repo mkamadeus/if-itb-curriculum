@@ -1,0 +1,18 @@
+{
+  "id": "IF1210",
+  "points": "2 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Dasar Pemrograman",
+      "description": "Mata kuliah ini mengenalkan tentang konsep fundamental pemrograman: abstraksi, dekomposisi problem, modularisasi, rekurens; skill/praktek pemrograman skala kecil (aspek koding) dan memberikan peta dunia pemrograman untuk dapat mempelajari pemrograman secara lebih mendalam pada tahap berikutnya.",
+      "syllabus": "Konsep fundamental pemrograman: abstraksi, dekomposisi problem, modularisasi, berpikir rekursif dan prosedural Tools dan term pemrograman: bahasa pemrograman, IDE, compiler, interpreter, source code, machine code, eksekusi program, algoritma, dll Pemrograman (aspek koding) dengan paradigma pemrograman fungsional dan prosedural, dengan beberapa bahasa yang dipilih untuk skala kecil dan persoalan umum. Gambaran besar dunia pemrograman dalam bidang computing, yang menantang dan menumbuhkan minat (the beauty and joy of computer programming)",
+      "outcomes": "Mahasiswa mengenal dan memahami semua pemikiran, istilah, tools yang dipakai dalam menyelesaikan persoalan melalui pembuatan progam.Mahasiswa mengenal kelas-kelas persoalan dan kelas-kelas programmer dan kelas-kelas program.Mahasiswa mengenal teknik-teknik yang dibutuhkan dalam memrogram dan mempraktekkan dengan skala kecilMahasiswa mampu mengkode program sederhana berskala kecil dan persoalan umum.Mahasiswa menjadi tertantang dan berminat untuk mempelajari pemrograman secara lebih mendalam pada tahap berikutnya."
+    },
+    "en": {
+      "name": "Programming Fundamentals",
+      "description": "This course offers the fundamental concepts of programming: abstraction, problem decomposition, modularization, recurrence; skill in small scale programming (coding aspects, through laboratory work) and overview of the big picture of programming and prepares the students to learn programming more deeply in the next stage",
+      "syllabus": "Fundamental concepts of programming: abstraction, problem decomposition, modularization, recursive and procedural thinkings Programming tools and terms: programming language, IDE, compiler, interpreter, source code, machine code, program execution, algorithm, etc Programming (coing aspects) in functional dan procedural paradigms using multiple proggramming languages for general & small scale problems The big picture of programming in the field of computing, that is callenging and interesting (the beauty and joy of compter programming)",
+      "outcomes": ""
+    }
+  }
+}

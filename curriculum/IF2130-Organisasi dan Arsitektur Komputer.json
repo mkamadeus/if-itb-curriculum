@@ -1,0 +1,18 @@
+{
+  "id": "IF2130",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Organisasi dan Arsitektur Komputer",
+      "description": "Pengantar arsitektur computer, representasi data, representasi level mesin, compile, linking dan optimasi program, hierarki memory, I/) dan interrupt",
+      "syllabus": "Pengantar arsitektur computer: system computer Representasi data: byte, string, integer, floating points Representasi level mesin: konsep, format data, modus pengalamatan, operasi aritmetika dan logika, kendali, prosedur, alokasi array, struktur data heterogen, compile, linking dan optimasi program: static linking, dynamic linking, symbol dan table symbol, file object, shared libraries, file biner executable Hierarki memory: teknologi penyimpanan, cache, RAM, disk, solid state I/O dan interrupt: sinyal, exception, I/O utk level system File",
+      "outcomes": "Memahami sejarah arsitektur komputer dan perkembangan arsitektur komputer modernMemahami representasi data numerik dan non numerik pada komputerMemahami eksekusi instruksi pada Mesin Von NeumannDapat menidentifikasi tipe teknologi memori dan prinsip-prinsip pengelolaan memoriDapat menjelaskan penggunaan interupsi dala implementasi I/O control dan transfer dataMemahami konsep pemrosesan paralel"
+    },
+    "en": {
+      "name": "Computer Organization and Architecture",
+      "description": "Introduction to computer architecture, data representation, machine level representation, compile, linking and program optimization, memory hierarchy, I/O and interrupts",
+      "syllabus": "Introduction to computer architecture: a tour of a computer systems Data representation: byte, string, integer, floating points Machine level representation: concepts, data format, addressing mode, arithmetic and logical operation, control, procedures, array allocation, heterogeneous data structure, compile, linking and program optimization: static linking, dynamic linking, symbols and symbol tables, object files, shared libraries, binary executable file   Memory hierarchy: storage technology, cache, RAM, disk, solid state I/O and interrupts: signal, exceptions, system level I/O, Files",
+      "outcomes": "Understands the history of computer architecture and the trends of modern computer architecture towards multicoreUnderstands how data (numeric and non-numeric) is represented in computerUnderstands how an instruction is executed in a classical von neumann machineDescribe instruction level parallelism and hazards, and how they are managed in typical processor pipelines demonstrate how to map from high level language patterns to low level/machine level notationIdentify main types of memory technology and the principles of memory managementExplain how interrupts are used to implement I/O control and data transfersUnderstand the concept of parallel processing beyond the simple von neumann architecture"
+    }
+  }
+}

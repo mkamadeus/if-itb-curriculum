@@ -1,0 +1,18 @@
+{
+  "id": "KU1101",
+  "points": "2 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pengantar Rekayasa & Desain I",
+      "description": "Kuliah ini berisi materi mengenai peran rekayasa dan desain dalam masyarakat, profesi insinyur, aspek-aspek dalam rekayasa, elemen kunci dalam analisis rekayasa, langkah penyelesaian masalah, konsep energi, konversi dan konservasi, penerapan prinsip sains dan matematika dalam rekayasa serta pengenalan beberapa disiplin rekayasa dan interaksinya.",
+      "syllabus": "Kuliah ini berisi materi mengenai peran rekayasa dan desain dalam masyarakat, profesi insinyur, aspek-aspek dalam rekayasa, elemen kunci dalam analisis rekayasa, langkah penyelesaian masalah, konsep energi, konversi dan konservasi, penerapan prinsip sains dan matematika dalam rekayasa serta pengenalan beberapa disiplin rekayasa dan interaksinya. Setelah mengikuti kuliah ini diharapkan mahasiswa termotivasi mempelajari ilmu rekayasa. Kuliah diberikan melalui tatap muka. Alat penilaian adalah pekerjaan rumah, tugas kelompok, ujian tengah semester dan ujian akhir semester.",
+      "outcomes": ""
+    },
+    "en": {
+      "name": "Introduction to Engineering and Design I",
+      "description": "This course covers engineering and design in society, engineer as a profession, aspects in engineering, key elements of engineering analysis, steps in solving problems, concept of energy, conversion and conservation, application of science and mathematics in engineering, and some examples of engineering disciplines and their interconnection.",
+      "syllabus": "This course covers engineering and design in society, engineer as a profession, aspects in engineering, key elements of engineering analysis, steps in solving problems, concept of energy, conversion and conservation, application of science and mathematics in engineering, and some examples of engineering disciplines and their interconnection. After following the course, student would be motivated in learning engineering. The course is delivered in class. Assessment tools are individual homework, team assignment, midterm test and final term test.",
+      "outcomes": ""
+    }
+  }
+}

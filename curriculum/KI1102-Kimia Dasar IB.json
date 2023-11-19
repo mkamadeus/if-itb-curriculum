@@ -1,0 +1,18 @@
+{
+  "id": "KI1102",
+  "points": "2 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Kimia Dasar IB",
+      "description": "Stoikhiometri, struktur atom dan molekul, wujud zat, dan energetika kimia",
+      "syllabus": "Unsur, senyawa dan tabel periodik, konsep mol, rumus empiris, rumus molekul, pereaksi pembatas, rendemen dan stoikiometri, reaksi kimia (asam-basa dan redoks) dalam larutan, struktur molekul, atom dan mekanika kuantum, ikatan kimia, struktur dan teori ikatan, wujud zat, diagram fasa, sifat gas, gaya antar molekul, dan termokimia kimia.",
+      "outcomes": "Mahasiswa mampu menjelaskan prinsip-prinsip kimia yang mendasari fenomena yang terjadi di alam sekitar"
+    },
+    "en": {
+      "name": "General Chemistry IB",
+      "description": "Stoikhiometri, struktur atom dan molekul, wujud zat, dan energetika kimia",
+      "syllabus": "Unsur, senyawa dan tabel periodik, konsep mol, rumus empiris, rumus molekul, pereaksi pembatas, rendemen dan stoikiometri, reaksi kimia (asam-basa dan redoks) dalam larutan, struktur molekul, atom dan mekanika kuantum, ikatan kimia, struktur dan teori ikatan, wujud zat, diagram fasa, sifat gas, gaya antar molekul, dan termokimia kimia.",
+      "outcomes": ""
+    }
+  }
+}

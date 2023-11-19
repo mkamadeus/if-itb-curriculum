@@ -1,0 +1,18 @@
+{
+  "id": "IF4033",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Keamanan dan Penjaminan Informasi",
+      "description": "Perkuliahan ini mengajarkan dasar dan fondasi terkait keamanan informasi (kerahasiaan, integrity, ketersediaan, autentikasi, dan akuntabilitas) Perkuliahan ini memberikan ilustrasi dan pengalaman terkait sejumlah mekanisme keamanan terhadap sejumlah serangan",
+      "syllabus": "Perkuliahan ini mengajarkan prinsip dasar dari kualitas keamanan informasi (kerahasiaan, integrity, ketersediaan, autentikasi, dan akuntabilitas) Peserta belajar bagaimana sejumlah searangan terjadi dan bagaimana sejumlah mekanisme pengamanan dapat melakukan pengedalian terhada serangan tersebut. Sejumlah insiden keamanan akan didiskusikan dan dipelajari: kesalahan yang terjadi dan bagaimana mitigasi yang tepat untuk hal tersebut. Peserta kelas akan merancang dan membangun sistem perangkat lunak secara aman guna mengaplikasikan teori yang telah dipelajari",
+      "outcomes": "Mahasiswa memahami prinsip dasar dari keamana informasiMahasiswa memiliki wawasan tentang sejumlah serangan terhadap keamanan informasiMahasiswa paham terhadap cara kerja sejumlah mekanisme perlindungan , dan dapat mengunakan/menerapkan pada sebuah desain dari sistem informasi"
+    },
+    "en": {
+      "name": "Information Security and Assurance",
+      "description": "This course aims at providing basic foundations and principles in information security: confidentiality, integrity, availability, authenticity, and accountability. The course also gives some illustration mechanisms various protection mechanisms to various attacks.",
+      "syllabus": "This course teaches basic principles of qualities that contribute to Information Security (e.g., confidentiality, integrity, availability, authenticity, accountability) Participants will be taught basic ideas about how information attacks can be launched and various mechanisms that can be used to protect from those attacks. Several high-level security incidents will be told to illustrate some common mistakes, and the class will need to discuss what kind of actions to mitigate such incidents. Students will design dan develop a secure system to make the theories in practice.",
+      "outcomes": ""
+    }
+  }
+}

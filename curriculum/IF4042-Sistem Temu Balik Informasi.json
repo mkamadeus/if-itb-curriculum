@@ -1,0 +1,18 @@
+{
+  "id": "IF4042",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Sistem Temu Balik Informasi",
+      "description": "Sistem temu-balik informasi, model ruang vektor, model probabilistik, umpan-balik, perluasan query, thesaurus, evaluasi unjuk kerja sistem, mesin pencarian",
+      "syllabus": "Sistem temu-balik informasi, model ruang vektor, model probabilistik, umpan-balik, perluasan query, thesaurus, evaluasi unjuk kerja sistem, mesin pencarian",
+      "outcomes": "Mahasiswa mampu memahami teknik-teknik dan metode yang ada pada sistem temu balik informasi."
+    },
+    "en": {
+      "name": "Information Retrieval System",
+      "description": "Information retrieval system, vector space model, probabilistic model, feed-back, query expansion, thesaurus, evaluation of system performance, search engine",
+      "syllabus": "Information retrieval system, vector space model, probabilistic model, feed-back, query expansion, thesaurus, evaluation of system performance, search engine",
+      "outcomes": "Students are able to understand the techniques and methods in the information retrieval system."
+    }
+  }
+}

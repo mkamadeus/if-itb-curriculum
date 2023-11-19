@@ -1,0 +1,18 @@
+{
+  "id": "IF4041",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Ilmu Data dan Penggalian Data",
+      "description": "Kuliah ini memberikan pengetahuan tentang pemanfaatan teknologi analisis data (data analysis technology) untuk meningkatkan kualitas pengambilan keputusan. Fokus kuliah ini adalah prinsip dasar dan penerapan data science dan data mining dalam proses pengambilan keputusan Beberapa algoritma dasar data science dan teknik data mining yang ‘scalable’ untuk large scale datasets akan dibahas juga dalam kuliah ini.",
+      "syllabus": "Materi yang diberikan pada kuliah ini mencakup prinsip dasar data analytic, teori keputusan (statistical decision theory) Expected Risk Minimization, metode linier untuk regresi dan klasifikasi, model untuk assessment & selection, random forest, ensemble learning (including boosting & regularization paths) large-scale data mining",
+      "outcomes": "Menformulasi solusi dari persoalan data science dengan proses data miningMenerapkan dasar2 exploratory analisis untuk identifikasi data abnormali, termasuk identifikasi data bias.Menentukan beberapa algoritma yang cocok/tepat untuk suatu persoalan, termasuk juga analisa tentang kelebihan dan kekurangan.Menjelaskan model regularization"
+    },
+    "en": {
+      "name": "Data Science and Data Mining",
+      "description": "-",
+      "syllabus": "-",
+      "outcomes": ""
+    }
+  }
+}

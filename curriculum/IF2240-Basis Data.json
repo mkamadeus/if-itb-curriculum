@@ -1,0 +1,18 @@
+{
+  "id": "IF2240",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Basis Data",
+      "description": "Mata kuliah ini memberikan pengetahuan mengenai sistem basis data secara umum, mencakup arsitektur sistem basis data, pemodelan data, perancangan skema basis data relasional, pemanfaatan dan pengelolaan data.",
+      "syllabus": "Materi yang diberikan pada kuliah ini mencakup latar belakang kebutuhan sistem basis data dalam mendukung kebutuhan informasi, pengorganisasian data di dalam file, berbagai pendekatan dalam pemodelan data, pemodelan data di level konseptual dengan menggunakan pemodelan entity-relationship, model data relasional dan operasi relasional dengan aljabar relasional dan kalkulus relasional, perancangan skema basis data relasional dengan normalisasi berdasarkan functional dependency, bahasa query. [peningkatan performansi basis data, pengelolaan transaksi, pengelolaan basis data terdistribusi]",
+      "outcomes": "Mahasiswa memiliki pemahaman mengenai peranan sistem basis data dalam pemenuhan kebutuhan akan informasiMahasiswa mampu melakukan pemodelan data skala kecil-menengah dengan menggunakan model entity-relationshipMahasiswa mampu merancang skema basis data relasionalMahasiswa mampu mengimplementasikan sebuah basis data menggunakan DBMS RelasionalMahasiswa mampu menemukan data dan informasi dari basis data serta memanipulasi data di dalam basis data dengan menggunakan SQL"
+    },
+    "en": {
+      "name": "Database",
+      "description": "This course discusses database systems in general, including database system architecture, data modeling, design of relational database schema, querying and management of data.",
+      "syllabus": "The topics covered in this course are approach to and evolution of database systems in information capture and representation, file organization, data modeling approach, conceptual data model using entity-relationship notation, relational data model and relational operation using relational algebra and relational calculus, design of relational database schema through normalization based on functional dependency, and query languages. [database performance tuning, transaction management, and distributed database management]",
+      "outcomes": ""
+    }
+  }
+}

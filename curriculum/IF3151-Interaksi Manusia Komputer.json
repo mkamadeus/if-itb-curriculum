@@ -1,0 +1,18 @@
+{
+  "id": "IF3151",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Interaksi Manusia Komputer",
+      "description": "Kuliah ini membahas mengenai konsep desain, pengenalan karakteristik pengguna, aspek praktis dan penelitian terkait antarmuka pengguna, pengumpulan data, framework analisis, proses desain interaksi, dan berbagai pendekatan untuk mengevaluasi antarmuka interaktif.",
+      "syllabus": "Materi yang tercakup di dalamnya meliputi:  •\tKonsep dan Prinsip Desain Interaksi •\tDomain masalah dan Konseptualisasi •\tAspek Kognitif  •\tInteraksi Emosional •\tInteraksi Sosial •\tAntamuka dan Interaksi  •\tPengumpulan Data dan Analisis •\tProses Desain Interaksi •\tDesain, Pembangunan Prototype, dan Konstruksi Produk Interaktif •\tUjicoba Usability •\tEvaluasi Analitik",
+      "outcomes": "Mahasiswa mampu memahami konsep-konsep penting, prinsip, dan aspek manusia di dalam desain interaksi.Mahasiswa mampu membedakan isu desain dan riset yang terkait dengan berbagai tipe interaksi dan antarmuka.Mahasiswa mampu mengidentifikasi permasalahan usability dan user experience dalam kehidupan sehari-hari.Mahasiswa mampu mengaplikasikan pengetahuan konsep dan prinsip desain interaksi untuk membangun produk yang bermanfaat.Mahasiswa mampu melaksanakan ujicoba usability dan evaluasi analitik.Mahasiswa mampu mengimplementasikan ide desain yang dimiliki dalam bentuk oral dan tulisan."
+    },
+    "en": {
+      "name": "Human Computer Interaction",
+      "description": "This course discusses the Interaction design concepts, human issues, practical & research issues in a wide range of interfaces, data gathering & analysis framework, process of interaction design, and approaches to evaluation of interactive interfaces",
+      "syllabus": "The topics discussed in this course are:  •\tInteraction design princples and concepts  •\tProblem space and design space conceptualization •\tCognitive aspects •\tEmotional Interactions •\tSocial Interaction •\tInterface and interactions •\tData gathering & analysis •\tProcess of interaction design •\tDesign, prototyping and construction of interactive product •\tUsability testing •\tAnalytical evaluation",
+      "outcomes": "Students are able to understand important concepts, principles, and human aspects in interaction design.Students are able to distinguish design and research issues related to various types of interactions and interfaces.Students are able to identify usability and user experience problems in everyday life.Students are able to apply knowledge of concept and interaction design principles to build useful products.Students are able to carry out usability tests and analytical evaluations.Students are able to implement their own design ideas in oral and written form."
+    }
+  }
+}

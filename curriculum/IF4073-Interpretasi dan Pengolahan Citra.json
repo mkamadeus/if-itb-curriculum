@@ -1,0 +1,18 @@
+{
+  "id": "IF4073",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Interpretasi dan Pengolahan Citra",
+      "description": "Model formasi citra, fitur dan pemrosesan citra, estimasi motion, segmentasi dan representasi bentuk, pengenalan object",
+      "syllabus": "Model formasi citra (system pencitraan, model kamera) fitur dan pemrosesan citra (representasi citra, deteksi batas) estimasi motion (komputasi optic, stereo vision, estimasi gerakan, struktur gerakan) segmentasi dan representasi bentuk (kurva, permukaan, kontur, fourier dan wavelet) pengenalan object (metode pengenalan, korespondensi bentuk, principal component analysis)",
+      "outcomes": "Memperkenalkan dan membiasakan mahasiswa dengan konsep interpretasi citra termasuk teknik pengenalan citra untuk memungkinkan siswa untuk mengembangkan program vision komputer"
+    },
+    "en": {
+      "name": "Image Interpretation and Processing",
+      "description": "Image formation model, image feature and processing, motion estimation, shape representation and segmentation, object recognition",
+      "syllabus": "Image formation model (imaging system, camera model) image feature and processing (image representation, edge detection) motion estimation (optical computation, stereo vision, motion estimation, structure from motion) shape representation and segmentation (curves, surfaces, contours, fourier and wavelet) object recognition (recognition method, shape correspondence, principal component analysis)",
+      "outcomes": "To introduce and familiarize students with image interpretation concept including the recognition techniques of image in order to enable students to develop computer vision program"
+    }
+  }
+}

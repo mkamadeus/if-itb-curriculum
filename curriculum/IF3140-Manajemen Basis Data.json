@@ -1,0 +1,18 @@
+{
+  "id": "IF3140",
+  "points": "2 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Manajemen Basis Data",
+      "description": "Mata kuliah ini memberikan pengetahuan mengenai pengelolaan basis data, mencakup peningkatan performansi basis data, manajemen kemanan dan transaksi, pemrograman basis data, dan pengelolaan terdistribusi.",
+      "syllabus": "Materi yang diberikan pada kuliah ini mencakup peningkatan performansi basis data melalui perbaikan skema (termasuk indeks) dan query, pengelolaan keamanaan dan kontrol akses pengguna, pengelolaan transaksi serta pemulihan basis data saat terjadi gangguan, pemrograman basis data menggunakan fungsi dan prosedur tersimpan di basis data, penjagaan integritas basis data dengan memanfaatkan constraints, assertions, dan triggers, serta pengelolaan basis data terdistribusi.",
+      "outcomes": "Mahasiswa memiliki pemahaman mengenai berbagai fungsionalitas yang dimiliki oleh suatu sistem manajemen basis dataMahasiswa mampu meningkatkan performansi basis data sesuai kebutuhan operasi di organisasiMahasiswa mampu menyusun batasan integritas basis data berdasarkan aturan bisnis organisasi dan mengimplementasikan di basis dataMahasiswa mampu melakukan fungsi administrator basis data"
+    },
+    "en": {
+      "name": "Database Management",
+      "description": "This course discusses about database management, including database performance tuning, security and transaction management, database programming, distributed management of database.",
+      "syllabus": "The topics covered in this course are database performance tuning through schema (including use of index) and query modification, management of security through access control of users, transaction management and database recovery, database programming with stored-procedure and functions, database integrity using constraints, assertions, and triggers, and distributed database management.",
+      "outcomes": "Students have an understanding of the various functionalities of a database management systemStudents are able to improve database performance according to the operational needs of the organizationStudents are able to develop database integrity boundaries based on the organization's business rules and implement in the databaseStudents are able to perform database administrator functions"
+    }
+  }
+}

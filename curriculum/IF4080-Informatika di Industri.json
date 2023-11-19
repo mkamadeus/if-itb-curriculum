@@ -1,0 +1,18 @@
+{
+  "id": "IF4080",
+  "points": "3 (2) SKS",
+  "syllabus": {
+    "id": {
+      "name": "Informatika di Industri",
+      "description": "Mata kuliah ini berisi topik-topik kajian dan pengembangan informatika yang mutakhir (state of the art) dan banyak diaplikasikan di dunia industri.",
+      "syllabus": "Mata kuliah ini berisi topik-topik kajian dan pengembangan informatika yang mutakhir (state of the art) dan banyak diaplikasikan di dunia industri. Materi lebih rinci bergantung pada perkembangan terakhir di Industri. Mata kuliah ini dapat dilaksanakan dalam bentuk: (1) Mahasiswa magang di Industri secara remote, untuk melaksanakan sebuah task terkait topik baru di Industri dan memiliki target yang terukur secara sistematis.  (2) Kerjasama antara Prodi dengan Industri untuk melaksanakan sebuah kuliah dengan dosen dari internal prodi dan dosen eksternal (industri) serta dengan tugas-tugas yang relevan dengan topik spesifik industri.",
+      "outcomes": "Mahasiswa mampu mempelajari hal baru/mutakhir dan dapat menerapkannya dalam sebuah perusahaan/dunia industri.Mahasiswa memiliki pengalaman bekerja dan berinteraksi dengan dunia industri dengan topik yang mutakhir"
+    },
+    "en": {
+      "name": "Informatics in Industry",
+      "description": "-",
+      "syllabus": "-",
+      "outcomes": "--"
+    }
+  }
+}

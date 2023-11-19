@@ -1,0 +1,18 @@
+{
+  "id": "IF4043",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Sistem Informasi Lanjut",
+      "description": "Mahasiswa memahami peran sistem informasi untuk mendukung kebutuhan organisasi di level non trasaksional beserta peluang dan risikonya. Mahasiswa memahami berbagai aplikasi pendukung sistem informasi dan mampu menganalisa permasalahan organisasi hingga dapat mengembangkan solusi menggunakan beragam aplikasi yang ada. Selain itu, mahasiswa juga memahami tata kelola sistem informasi organisasi.",
+      "syllabus": "Organization and IS Alignment, Value of Information System, Management Informations System, Decision Support System, Executive Information System, Intelligent Information System, Mid Test, IT/IS Governance Framework, Management of Information System, IS Risk Management (Business Continuity, Security and Privacy)",
+      "outcomes": "Mahasiswa mampu membandingkan berbagai sistem informasi pada organisasi yag dibentuk untuk melayani level manajemen yang berbedaMahasiswa mampu menggunakan pengetahuan tersebut untuk menyelesaikan masalah organisasiMahasiswa dapat mengidentifikasi komponen penalaran non monotonik serta membandingkannya dengan proses penalaran monotonikMahasiswa memiliki pengetahuan tentang tata kelola informasi pada organisasi"
+    },
+    "en": {
+      "name": "Advanced Information System",
+      "description": "Students understand the role of information system to support organization need on non transactional level with its opportunity and risk. Students understand various information systems and be able to analyse organization problem to develop solution in using various application types. Students understand the management of organization information system.",
+      "syllabus": "Organization and IS Alignment, Value of Information System, Management Informations System, Decision Support System, Executive Information System, Intelligent Information System, Mid Test, IT/IS Governance Framework, Management of Information System, IS Risk Management (Business Continuity, Security and Privacy)",
+      "outcomes": "Students are able to compare various information systems in organizations formed to serve different levels of managementStudents are able to use the knowledge to solve organizational problemsStudents can identify non monotonic reasoning components and compare them with monotonic reasoning processesStudents have knowledge of information governance in organizations"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "IF3170",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Inteligensi Buatan",
+      "description": "Kuliah ini membahas intelligent agent, mulai dari agen dengan tingkat yang paling sederhana (hanya melakukan pencarian) hingga agen yang mampu membentuk pengetahuan sendiri. Untuk setiap tingkatan diberikan aplikasi yang memanfaatkan agen pada tingkat tersebut. Dalam kuliah ini juga diberikan pengantar untuk pattern recognition.",
+      "syllabus": "Kuliah ini mendeskripsikan materi tentang pemahaman mengenai intelligent system, intelligent agent, review berbagai teknik searching sebagai penerapan agen dengan level yang paling sederhana, beberapa jenis representasi pengetahuan dengan contoh logika dan production rules, pengenalan sistem berbasis pengetahuan, beberapa teknik pembelajaran mesin sederhana dan bagaimana mengukur kinerja dari tiap teknik yang dibahas, serta implementasi dari tiap level agen pada suatu aplikasi yang membantu manusia dalam menyelesaikan persoalan.",
+      "outcomes": "Mahasiswa mampu mengkategorisasikan aplikasi berbasis intelligent system dan yang tidak.Mahasiswa mampu mendefinisikan teknik yang tepat untuk menyelesaikan persoalan dengan karakteristik tertentu.Mahasiswa mampu melakukan analisis terhadap teknik-teknik dalam intelligent system dan mengimplementasikan teknik terpilih pada suatu persoalan."
+    },
+    "en": {
+      "name": "Artificial Intelligence",
+      "description": "This course discusses intelligent agent in three levels of “intelligence” which are simple problem solving agent (solve the problem by searching) knowledge based agent, and learning agent which is capable of creating knowledge from a given data. In each level, application that utilized intelligent agent is presented. Introduction to Pattern recognition is also presented in this course.",
+      "syllabus": "The topics discussed in this course are what is intelligent system, what is intelligent agent, searching techniques, knowledge representation (more on logic & production rules) knowledge based system, machine learning (decision tree, naive bayes, k-means, etc) performance of machine learning, intelligent system application.",
+      "outcomes": "Students are able to distinguish intelligent system based application to other type of applications.Students are able to define appropriate techniques for solving probelms with specific characteristics.Students are able to analyze techniques in the fields of intelligent system and apply a selected technique on a given problem."
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "IF4071",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pembelajaran Mesin",
+      "description": "Kuliah ini membahas berbagai teknik pembelajaran oleh mesin serta pengenalan pola. Pendekatan yang diberikan mencakup supervised learning, unsupervised learning, dan reinforcement learning.",
+      "syllabus": "Materi yang tercakup di dalamnya meliputi: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines) unsupervised learning (clustering, dimensionality reduction, kernel methods) learning theory (bias/variance tradeoffs; VC theory; large margins) reinforcement learning dan adaptive control. Kuliah juga membahas aplikasi pembelajaran mesin terkini seperti robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing secara sekilas.",
+      "outcomes": "- mahasiswa menjelaskan perbedaan dari ketiga jenis pembelajaran (unsupervised, supervised, dan reinforcement) - mahasiswa mampu mengimplementasikan algoritma sederhana untuk ketiga jenis pembelajaran tersebut - mahasiswa mampu memilih jenis pembelajaran yang tepat untuk kasus persoalan/ aplikasi tertentu - mahasiswa mampu melakukan evaluasi terhadap kinerja suatu algoritma pembelajaran pada kasus persoalan tertentu - mahasiswa mampu menjelaskan persoalan overfitting, serta mampu menjelaskan bagaimana deteksi dan solusi nya"
+    },
+    "en": {
+      "name": "Machine Learning",
+      "description": "This course discusses broad introduction to machine learning and pattern recognition. The approach consists of supervised learning, unsupervised learning, and reinforcement learning.",
+      "syllabus": "The topics discussed in this course are: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines) unsupervised learning (clustering, dimensionality reduction, kernel methods) learning theory (bias/variance tradeoffs; VC theory; large margins) reinforcement learning and adaptive control. This course also discusses recent machine learning application such as robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing.",
+      "outcomes": ""
+    }
+  }
+}

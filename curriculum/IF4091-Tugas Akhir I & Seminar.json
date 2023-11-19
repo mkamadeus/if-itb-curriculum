@@ -1,0 +1,18 @@
+{
+  "id": "IF4091",
+  "points": "2 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Tugas Akhir I & Seminar",
+      "description": "Pada kuliah ini, mahasiswa mendefinisikan rumusan masalah untuk tugas akhir yang dikerjakannya, dan mendeskripiskan tujuan dan pengaruh tugas akhirnya terhadap sekitarnya. Mahasiswa juga melakukan studi literatur yang terkait dengan permasalahan. Mahasiwa juga diharuskan untuk menulis laporan tugas akhir I, dan mempresentasikan hasilnya dalam sebuah seminar.",
+      "syllabus": "Topik-topik yang dibahas mencakup: informasi umum tugas akhir, studi literatur, rumusan masalah dan tujuan tugas akhir, pendekatan solusi dan solusi umum atas permasalahan, penulisan laporan, dan presentasi lisan.",
+      "outcomes": "Mahasiswa mampu mendefinisikan rumusan masalah tugas akhir, dan mendeskripiskan rumusan masalah dan pengaruh dari tugas akhir.Mahasiswa dapat melakukan studi literatur secara seksama yang terkait dengan permasalahan tugas akhir.Mahasiswa dapat mendefinisikan solusi umum atas permasalahan tugas akhir.Mahasiwa mampu menuliskan hasil pekerjaanya dalam sebuah laporan, dan mempresentasikannya secara lisan dalam sebuah seminar."
+    },
+    "en": {
+      "name": "Final Work I & Seminar",
+      "description": "In this course, students define the problem statement for the final project and describe its objectives as well as the impact the final project to its relevant surrounding. Students also conduct literature studies related to the problem, provide the approach to solve the problem as well as the global/general solution on the problem. Student also must write a report for the final project I, and present the results orally in a seminar.",
+      "syllabus": "List of topics covered in this course includes general information on the final project, literature studies, problem statement and final project objectives, approach on the solution and global/general solution on the problem, report writing, and oral presentation.",
+      "outcomes": ""
+    }
+  }
+}

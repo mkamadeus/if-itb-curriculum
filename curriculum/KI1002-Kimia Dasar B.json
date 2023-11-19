@@ -1,0 +1,18 @@
+{
+  "id": "KI1002",
+  "points": "4 (1) SKS",
+  "syllabus": {
+    "id": {
+      "name": "Kimia Dasar B",
+      "description": "Mata kuliah ini bertujuan memberikan fondasi tentang konsep kimia pada aspek perhitungan komposisi, energi, laju reaksi, dan aspek struktur serta interaksinya yang diperlukan mahasiswa teknik untuk pengembangan material.",
+      "syllabus": "Topik yang akan dipelajari pada mata kuliah ini: 1. Atom dan molekul, 2. Molekul, mol dan persamaan kimia 3. Stoikiometri 4. Sifat-sifat gas 5. Tabel periodik dan struktur atom 6. Ikatan kimia dan struktur molekul 7. Molekul dan material 8. Energi dan kimia 9. Entropi dan hukum kedua termodinamika 10. Kinetika kimia 11. Kesetimbangan kimia 12. Elektrokimia 13. Kimia inti",
+      "outcomes": "Mahasiswa mampu berpikir logis, rasional dan kritis dalam menyelesaikan masalah-masalah kimia.Mahasiswa mampu merancang dan/atau melaksanakan eksperimen kimia, serta menganalisis dan menginterpretasi data."
+    },
+    "en": {
+      "name": "General Chemistry B",
+      "description": "This course aims to provide the foundation of the concept of chemistry in the aspects of the calculation of composition, energy, reaction rate, and aspects of the structure and interactions that are needed by engineering students for material development.",
+      "syllabus": "Subjects to be studied in this course: 1. Atoms and molecules, 2. Molecules, moles and chemical equations 3. Stoichiometry 4. Gas properties 5. Periodic table and atomic structure 6. Chemical bonding and molecular structure 7. Molecules and materials 8. Energy and chemistry 9. Entropy and the second law of thermodynamics 10. Chemical kinetics 11. Chemical equilibrium 12. Electrochemistry 13. Nuclear chemistry",
+      "outcomes": "Students are able to think logically, rationally and critically in solving chemical problems.Students are able to design and/or carry out chemical experiments, as well as analyze and interpret data."
+    }
+  }
+}

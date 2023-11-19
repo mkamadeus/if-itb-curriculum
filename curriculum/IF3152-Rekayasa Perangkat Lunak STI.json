@@ -1,0 +1,18 @@
+{
+  "id": "IF3152",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Rekayasa Perangkat Lunak STI",
+      "description": "Kuliah ini memberikan pengertian tentang rekayasa perangkat lunak dan kemampuan dasar dalam membangun perangkat lunak skala kecil dan sederhana, serta kemampuan mengoperasikan tools terkait pemodelan perangkat lunak.",
+      "syllabus": "Tipe Perangkat Lunak (P/L) Pengantar Rekayasa P/L; Siklus Hidup P/L, mencakup pengumpulan kebutuhan, analisis, perancangan, implementasi, pengujian,pengoperasian, dan perawatan; Berbagai Model Proses,mencakup waterfall, prototyping, incremental, agile process model, dll; Metodologi Pembangunan P/L (termasuk metode berorientasi objek) kelebihan, kekurangan dan aspek praktisnya di industri; Standard dan Dokumentasi P/L, mencakup SDD, SRS, SDD, STP; Alat Bantu Pemodelan P/L, mencakup UML dan DFD; Studi Kasus: Pembangunan P/L Skala Kecil(diberikan spesifikasi kebutuhan, dilakukan analisis, perancangan, dan perencanaaan pengujian)",
+      "outcomes": "Membedakan antara perangkat lunak dengan “program”,Memahami semua istilah dan terminologi di bidang rekayasa perangkat lunakMemahami berbagai model proses pembangunan perangkat lunakMelakukan semua proses pembangunan perangkat lunak yang baik dan benar untuk perangkat lunak berskala kecilMengoperasikan alat bantu yang dibutuhkan untuk pemodelan pearngkat lunak"
+    },
+    "en": {
+      "name": "Software Engineering IST",
+      "description": "This course provides an understanding of software engineering and basic skills in building small scale and simple software, and the ability to use a variety of software modeling tools.",
+      "syllabus": "Types of Software; Introduction to Software Engineering, Software Development Life Cycle (SDLC) including requirement gathering, analysis, design coding, testing, operation, and maintenance; Software Process Model, including waterfall, prototyping, incremental, agile process model, etc; Software Development Methodologies (including OO Software Development Methods) advantages and disadvantages, and practices in industry; Software Standard and Documentation, including SDP, SRS, SDD, STP; Software Modeling Tools, including UML and DFD; Case Study: Small Scale Software Development (analys and design a small scale software based on a given software requirement)",
+      "outcomes": ""
+    }
+  }
+}

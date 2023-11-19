@@ -1,0 +1,18 @@
+{
+  "id": "IF4031",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pengembangan Aplikasi Terdistribusi",
+      "description": "Prinsip dasar yang umum untuk perancangan dan implementasi sistem yang berjalan pada dua atau lebih komputer yang saling terhubung. Arsitektur aplikasi terdistribusi. Kakas dan framework untuk pengembangan aplikasi terdistribusi.",
+      "syllabus": "Distributed computing: Bentuk komputasi, dukungan OS dan bahasa pemrograman Arsitektur distributed computing Paradigma Client-server Perancangan server berkinerja tinggi Komunikasi grup Objek Terdistribusi/Remote Procedure Call Paradigma berbasis Message queue Aplikasi Peer to Peer",
+      "outcomes": "Mampu mengaplikasikan keterampilan dalam memecahkan masalah untuk aplikasi terdistribusi.Mampu mengidentikasikan dan mendekomposisi sistem yang kompleks menjadi bagian-bagian komponennya.Mampu mengintegrasikan konsep sistem operasi dan bahasa pemrograman untuk memecahkan/mengimplemenstasikan komponen-komponen terdistribusi dalam sistem.Mampu membangun/mengaplikasikan serangkaian protokol-protokol jaringan untuk mengimplementasikan komponen-komponen komunikasi.Mampu mengevaluasi atau mengvalidasi implementasi-implementasi yang telah dilakukan melalui simulasi dan/atau proyek nyata."
+    },
+    "en": {
+      "name": "Distributed Application Development",
+      "description": "fundamental principles common to the design and implementation of programs that run on two or more interconnected computer systems. Distributed application architectures. Tools and frameworks for developing distributed applications.",
+      "syllabus": "Distributed computing: forms of computing, OS & language supports Architecture of distributed computing Client-server paradigm Design of high performance server Group communications Distributed objects/Remote Procedure Call Message queue based paradigm Peer to peer applications",
+      "outcomes": "Able to apply problem solving (analysis, design, and development) skills to distributed applications.Able to identify and decompose complex systems into its components parts.Able to integrate OS and programming language concepts to solve/implement the distributed components of the system.Able to develop/apply suites of networking protocols for implementing the communicating components.Able to evaluate or validate their implementations via simulations and/or realistic projects."
+    }
+  }
+}

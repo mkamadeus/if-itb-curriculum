@@ -1,0 +1,18 @@
+{
+  "id": "IF3150",
+  "points": "2 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Manajemen Proyek Perangkat Lunak",
+      "description": "Kuliah ini memberikan pengetahuan dan pemahaman mengenai manajemen, manajemen proyek, proses pada manajemen proyek perangkat lunak , serta beberapa area keilmuan di bidang manajemen proyek perangkat lunak",
+      "syllabus": "Manajemen dan manajemen proyek; proses pada manajemen proyek perangkat lunak mencakup: inisiasi, perencanaan eksekusi, pemantauan dan pengendalian, dan penutupan proyek; termasuk alat bantunya, beberapa area keilmuan di bidang manajemen proyek perangkat lunak: manajemen integrasi, manajemen scope, waktu dan biaya; manajemen kualitas; manajemen sumberdaya dan komunikasi; manajemen resiko, manajemen pengadaan; etika di bidang manajemen",
+      "outcomes": "Mahasiswa memahami pentingnya management dan manajemen proyekMahasiswa memahami siklus lengkap proses manajemen proyek perangkat lunakMahasiswa memahami beberapa area keilmuan dalam manajemen proyek perangkat lunakMahasiswa mampu mengelola proyek skala kecil dengan tim kecil (2-3 orang) dan menjadi pelaksana proyek yang baik"
+    },
+    "en": {
+      "name": "Software Project Management",
+      "description": "This course provides knowledge and understanding about management, project management, software project management processess, and several konowledge areas in software project management",
+      "syllabus": "Management and project management; software project management processes including: project initiation, planning, execution, monitoring and controlling, and project closing;and related tools; several knowledge area in software project management: integration, scope, time, cost, quality management; human resource , communication, risk, and procurement management; ethics in management",
+      "outcomes": "Students understand the importance of project management and managementStudents understand the complete cycle of software project management processesStudents understand several scientific areas in software project managementStudents are able to manage small-scale projects with small teams (2-3 people) and become good project implementers"
+    }
+  }
+}

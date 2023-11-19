@@ -1,0 +1,18 @@
+{
+  "id": "KU1102",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pengenalan Komputasi",
+      "description": "Mata kuliah ini memberikan pengetahuan dan keterampilan dasar mengenai konsep-konsep inti komputasi/computing, yaitu sistem komputasi, jaringan dan internet, data dan analisis, algoritma dan pemrograman serta dampak komputasi dalam kerangka berpikir komputasi, ditambah dengan pengenalan terhadap intelejensia buatan.",
+      "syllabus": "Materi kuliah umum untuk semua fakultas/sekolah terdiri atas pengenalan terhadap konsep-konsep inti dalam komputasi ditambah dengan pengetahuan tentang intelejensia buatan, yaitu: 1)\tSistem komputasi serta jaringan dan internet 2)\tPengantar algoritma dan pemrograman 3)\tPengantar data dan analisis 4)\tPengenalan intelejensia buatan 5)\tDampak komputasi Selanjutnya, didefinisikan juga materi pilihan, yaitu materi yang disesuaikan dengan kebutuhan fakultas/sekolah. Materi pilihan berisi pendalaman terhadap beberapa konsep inti, yaitu: algoritma dan pemrograman, data dan analisis, ditambah dengan pengetahuan dan/atau keterampilan memanfaatkan teknologi komputasi yang spesifik tergantung pada kebutuhan di bidang fakultas/sekolahnya.",
+      "outcomes": "1)\tMengenali dan mendefinisikan persoalan komputasi sesuai dengan bidang studinya, mengembangkan dan menggunakan abstraksi, dan mengetes serta memperbaiki artifak komputasi yang relevan dan bermanfaat untuk pemecahan persoalan komputasinya.2)\tBerkomunikasi dengan berbagai pihak dalam rangka mengekspresikan dan bertukar ide mengenai penggunaan dan dampak teknologi komputasi serta pemecahan persoalan komputasi."
+    },
+    "en": {
+      "name": "Introduction to Computation",
+      "description": "This course provides knowledge and basic skills in the core concepts of computing, i.e. computing system, network and internet, data and analysis, algorithm and programming, and impacts of computing within the framework of computational thinking. Additionally, the course provides introductory knowledge on artificial intelligence.",
+      "syllabus": "The common course materials for all faculties/schools consist of introduction to all core concepts of computing as well as introduction to artificial intelligence: 1)\tComputing system and network and internet 2)\tIntroduction to algorithm and programming 3)\tIntroduction to data and analysis 4)\tIntroduction to artificial intelligence 5)\tImpacts of computing Subsequently, elective course materials are defined according to the requirements of each faculty/school. The elective materials go deeper on several core concepts, i.e. algorithm and programming, data and analysis, and knowledge and/or basic skills in applying specific computing technology depending on the the requirements of each faculty/school.",
+      "outcomes": ""
+    }
+  }
+}

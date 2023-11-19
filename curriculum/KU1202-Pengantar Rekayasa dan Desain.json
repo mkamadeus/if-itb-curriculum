@@ -1,0 +1,18 @@
+{
+  "id": "KU1202",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pengantar Rekayasa dan Desain",
+      "description": "Kuliah ini berisi materi mengenai peran berbagai disiplin ilmu dalam menyelesaikan masalah rekayasa dan desain dalam masyarakat, sifat multi aspek dan multi disiplin dalam rekayasa dan desain, prinsip cara berpikir desain, kaidah proses desain dan prinsip langkah penyelesaian masalah. Beberapa isu kontemporer diberikan untuk memperkaya wawasan. Untuk memberikan pemahaman lebih mendalam, diberikan tugas kegiatan proyek sederhana rekayasa dan desain yang dikerjakan dalam kelompok.",
+      "syllabus": "Kuliah ini berisi materi mengenai peran berbagai disiplin ilmu dalam menyelesaikan masalah rekayasa dan desain dalam masyarakat, sifat multi aspek dan multi disiplin dalam rekayasa dan desain, prinsip cara berpikir desain, kaidah proses desain dan prinsip langkah penyelesaian masalah. Beberapa isu kontemporer diberikan untuk memperkaya wawasan. Untuk memberikan pemahaman lebih mendalam, diberikan tugas kegiatan proyek sederhana rekayasa dan desain yang dikerjakan dalam kelompok.",
+      "outcomes": "1.\tMahasiswa dapat menjelaskan keterlibatan berbagai profesi dalam penyelesaian masalah rekayasa dan desain2. Mahasiswa dapat menjelaskan bahwa masalah rekayasa dan desain harus ditinjau secara multi aspek dan multi disiplin3.\tMahasiswa dapat menjelaskan isu kontemporer yang berkaitan dengan masalah rekayasa dan desain4.\tMahasiswa dapat menerapkan kaidah proses desain dan penyelesaian permasalahan sederhana5.\tMahasiswa dapat berkerjasama dalam tim"
+    },
+    "en": {
+      "name": "Introduction to Engineering and Design",
+      "description": "This course covers different contribution of discipline to solve engineering and design problem that humankind face, multiple aspect and multi-disciplinary characteristic in engineering and design, principle of design thinking, design process principle, and problem-solving process. Some related contemporary issue will also be given. To deepen student understanding, simple engineering and design project will be given as teamwork assignment.",
+      "syllabus": "This course covers different contribution of discipline to solve engineering and design problem that humankind face, multiple aspect and multi-disciplinary characteristic in engineering and design, principle of design thinking, design process principle, and problem-solving process. Some related contemporary issue will also be given. To deepen student understanding, simple engineering and design project will be given as teamwork assignment.",
+      "outcomes": ""
+    }
+  }
+}

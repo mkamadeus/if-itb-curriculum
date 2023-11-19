@@ -1,0 +1,18 @@
+{
+  "id": "KU1201",
+  "points": "2 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pengantar Rekayasa & Desain II",
+      "description": "Matakuliah ini memberikan pemahaman terhadap rekayasa dan desain secara lebih mendalam melalui kegiatan proyek dalam kelompok.",
+      "syllabus": "Silabus Lengkap\tMatakuliah ini memberikan pemahaman terhadap rekayasa dan desain secara lebih mendalam melalui kegiatan proyek dalam kelompok.",
+      "outcomes": ""
+    },
+    "en": {
+      "name": "Introduction to Engineering and Design II",
+      "description": "This course offer a deeper understanding on engineering and design by means of teamwork student projects.",
+      "syllabus": "This course offer a deeper understanding on engineering and design by means of teamwork student projects.",
+      "outcomes": ""
+    }
+  }
+}

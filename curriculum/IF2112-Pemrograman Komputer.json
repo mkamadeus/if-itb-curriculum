@@ -1,0 +1,18 @@
+{
+  "id": "IF2112",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Pemrograman Komputer",
+      "description": "Mata kuliah ini mengenalkan konsep dan teknik pemecahan masalah dengan menggunakan pemrograman prosedural. Sebagai mata kuliah layanan untuk program studi lain, mata kuliah ini memberikan bekal pemahaman untuk pemecahan masalah pada domain program studi yang bersangkutan dengan menggunakan paradigma pemrogram prosedural.",
+      "syllabus": "Mata kuliah ini mengenalkan konsep-konsep dasar pemrograman prosedural yang meliputi: struktur dasar program prosedural, kamus data, analisis kasus, skema pengulangan, subprogram, pemrosesan file, array, dan matriks. Sebuah bahasa pemrograman tertentu (C++) dipilih untuk mengimplementasikan konsep-konsep pemrogram prosedural yang diajarkan.",
+      "outcomes": "Mahasiswa mengenal dan memahami semua pemikiran, istilah, tools yang dipakai dalam menyelesaikan persoalan melalui pembuatan progam prosedural.Mahasiswa mengenal teknik-teknik yang dibutuhkan dalam memprogram secara prosedural dan mempraktekkannya untuk memecahkan masalah pada skala kecil.Mahasiswa menjadi tertantang dan berminat untuk mempelajari pemrograman secara lebih mendalam pada tahap berikutnya."
+    },
+    "en": {
+      "name": "Computer Programming",
+      "description": "This course introduces problem solving techniques using procedural programming. As a course designed for other study programs, this course provides understanding for procedural problem solving in the related domain.",
+      "syllabus": "This course introduces the basic concept of procedural programming, which includes basic program structures, data, cases analysis, looping, subprogram, file processing, array, and matrix. A procedural programming languange, i.e., C++, is chosen to implement the procedural programming concepts.",
+      "outcomes": ""
+    }
+  }
+}

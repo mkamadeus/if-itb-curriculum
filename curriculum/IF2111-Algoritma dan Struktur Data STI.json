@@ -1,0 +1,18 @@
+{
+  "id": "IF2111",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Algoritma dan Struktur Data STI",
+      "description": "Mata kuliah ini memberikan pemahaman atas konsep algoritma dan struktur data yang umum dipakai di bidang informatika/ilmu komputer, dan (2) keahlian dalam mendesain dan menggunakan algoritma dan struktur data yang baik untuk memecahkan persoalan, dan (3) membangun program dengan paradigma prosedural skala menengah dengan suatu bahasa pemrograman yang dipilih.",
+      "syllabus": "Materi kuliah mencakup: 1)\tKonsep dasar struktur data dalam pemrograman prosedural: Program = algoritma + struktur data;  2)\tmodularisasi program;  3)\tscope dan life time variabel;  4)\tMesin abstrak; 5)\tTipe data abstrak: dasar, tabel, matriks, stack, queue, list, binary tree: konsep, primitif, operasi; 6)\tPemakaian library; 7)\tADT dengan berbagai variasi representasi; 8)\tAlgoritma yang relevan dengan masing-masing struktur data: sequential processing (traversal, searching) sorting, insert, update delete, reverse; 9)\tStudi kasus",
+      "outcomes": "Mahasiswa mengenali dan memahami konsep dan dasar struktur dataMahasiswa mampu untuk memakai paket struktur data yang tersediaMahasiswa mambu mendesain dan mengimplementai paket struktur dataMahasiswa mampu melakukan problem solving (dengan pemrograman prosedural, skala menengah) menggunakan struktur data, baik menggunakan API/library yang tersedia ataupun dengan membangun sendiri library (from the scratch)Mahasiswa siap untuk mempelajari pemrograman berorientasi objek (OOP)"
+    },
+    "en": {
+      "name": "Algorithm and Data Structure IST",
+      "description": "This course offers (1) the concepts of algorithms and data structures commonly used in the field of informatics/computer science, (2) skill in designing and using algorithms and data structure for problem solving, and (3) developing programs in procedural paradigm using a particular programming language.",
+      "syllabus": "The course covers: 1)\tBasic concepts of data structure in procedural programming: Program = algorithm + data structure; 2)\tprogram modularization; 3)\tvariable scope and life time; 4)\tabstract machine; 5)\tAbstract Data Type: basic ADT, table, matrix, stack, queue, list, binary tree: concepts, primitive, operation; 6)\tThe use of library; 7)\tADT in various representation; 8)\tAlgorithms relevant to each data structure: sequential processing (traversal, searching) sorting, insert, update delete, reverse; 9)\tCase studies",
+      "outcomes": ""
+    }
+  }
+}

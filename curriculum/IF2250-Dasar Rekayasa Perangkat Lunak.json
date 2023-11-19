@@ -1,0 +1,18 @@
+{
+  "id": "IF2250",
+  "points": "2 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Dasar Rekayasa Perangkat Lunak",
+      "description": "Kuliah ini memberikan pengertian tentang rekayasa perangkat lunak dan kemampuan dasar dalam membangun perangkat lunak skala kecil dan sederhana, serta kemampuan mengoperasikan tools terkait pemodelan perangkat lunak.",
+      "syllabus": "Tipe Perangkat Lunak (PL) Pengantar Rekayasa PL, Model Proses Pembangunan PL, Metodologi Pembangunan PL (termasuk metode berorientasi objek) kelebihan, kekurangan dan aspek praktisnya di industri; Kebutuhan: kebutuhan pengguna, kebutuhan sistem, dan kebutuhan PL; Analisis Kebutuhan PL (termasuk alat bantu pemodelannya) Perancangan PL (termasuk alat bantu pemodelannya) Kualitas PL, Pengujian PL; Standard dan Dokumentasi PL;  Studi Kasus: Pembangunan PL Skala Kecil (diberikan spesifikasi kebutuhan, dilakukan analisis, perancangan, implementasi, dan pengujian)",
+      "outcomes": "Setelah lulus dari kuliah ini, mahasiswa mampu :1. Mengenali berbagai tipe perangkat lunak dan karakteristiknya2. Memahami berbagai semua istilah dan terminologi di bidang rekayasa perangkat lunak3. Memahami pentingnya rekayasa perangkat lunak4. Memahami beberapa model proses pembangunan perangkat lunak dan metodologi pembangunan perangkat lunak5. Menerapkan pengetahuiannya untuk membangun perangkat lunak skala kecil dengan memanfaatkan alat bantu yang diperlukan"
+    },
+    "en": {
+      "name": "Software Engineering Fundamental",
+      "description": "This course provides an understanding of software engineering and basic skills in building small scale and simple software, and the ability to use a variety of software modeling tools.",
+      "syllabus": "Types of Software, Introduction to Software Engineering, Software Process Model, Software Development Methodologies (including OO Software Development Methods) advantages and disadvantages, and practices in the industry; Requirement : user req, system req, and SW req; Req Analysis Modeling (including the modeling tools) SW Design (including the modeling tools),  SW Quality and SW Testing; Software Standard and Documentation; Case Study: Small Scale Software Development (analysis,  design, implementation, and testing of a small scale software, based on a given software requirement)",
+      "outcomes": ""
+    }
+  }
+}

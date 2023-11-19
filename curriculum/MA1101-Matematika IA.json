@@ -1,0 +1,18 @@
+{
+  "id": "MA1101",
+  "points": "4 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Matematika IA",
+      "description": "Sistem Bilangan Real, Pertaksamaan, Fungsi dan Limit, Turunan, Penggunaan Turunan, Integral, Penggunaan Integral dan Fungsi Transenden",
+      "syllabus": "Mata kuliah ini adalah bagian pertama dari seri kalkulus untuk bidang-bidang sains dan rekayasa. Materi yang dibahas antara lain, Sistem Bilangan Real, Pertaksamaan, Fungsi dan Limit, Turunan, Penggunaan Turunan, Integral, Penggunaan Integral dan Fungsi Transenden",
+      "outcomes": "Keterampilan teknis baku yang didukung oleh konsep, rumus, metode, dan penalaran yang sesuai;Pola berpikir yang kritis, logis dan sistematis,; serta kreativitas dalam pemecahan masalah yang terkait dengan Matematika;Kemampuan mengkomunikasikan hasil pemikiran dan pekerjaannya baik secara lisan maupun tulisan;Kesiapan untuk mempelajari mata kuliah lain, yang memerlukan matematika sebagai prasyarat, secara mandiri."
+    },
+    "en": {
+      "name": "Mathematics IA",
+      "description": "Real number system, inequalities, functions and limits, derivatives, applications of derivatives, integrals, applucations of integrals, transcendental functions",
+      "syllabus": "This course is the first part of University Calculus series for science and engineering. It covers Real number system, inequalities, functions and limits, derivatives, applications of derivatives, integrals, applications of integrals, transcendental functions",
+      "outcomes": ""
+    }
+  }
+}

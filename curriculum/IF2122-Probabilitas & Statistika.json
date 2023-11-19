@@ -1,0 +1,18 @@
+{
+  "id": "IF2122",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Probabilitas & Statistika",
+      "description": "Kuliah ini mendeskripsikan materi tentang probability dan dilanjutkan dengan statistik sebagai salah satu pendekatan pengambilan keputusan dengan memanfaatkan komputer. Kuliah ini lebih diarahkan pada pemanfaatan teori peluang dan statistika, dan tidak berfokus pada penjelasan detil mengenai formula-formula pada teori peluang dan statistika.",
+      "syllabus": "Kuliah ini mendeskripsikan materi tentang probability, variabel random, teori bayes, distribusi peluang dari variabel random, ekspektasi matematika dari suatu kejadian, distribusi sampel, estimasi parameter populasi & hipotesisnya, pengenalan regresi linear dan pemanfaatannya untuk melalukan prediksi.",
+      "outcomes": "Mahasiswa memahami dan dapat menyelesaikan persoalan distribusi peluang variabel random dan diskrit, dan mahasiswa mampu menyelesaikan persoalan untuk menarik kesimpulan mengenai parameter populasi yang diperoleh dari data hasil eksperimen."
+    },
+    "en": {
+      "name": "Probability &Statistics",
+      "description": "This course discusses probability and statistics as one approach in computer based decision making. Instead of giving explanation and proofing of probability and statistics theory, this course focuses on how to apply probability and statistics in informatics engineering problem.",
+      "syllabus": "The topics discussed in this course are probability, random variable, Bayes, discrete and continuous probability distribution, mathematical expectation, sample distribution, estimation, hypothesis, introduction to linear regression and how to use it in prediction.",
+      "outcomes": ""
+    }
+  }
+}

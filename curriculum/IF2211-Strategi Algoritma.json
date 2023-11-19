@@ -1,0 +1,18 @@
+{
+  "id": "IF2211",
+  "points": "3 SKS",
+  "syllabus": {
+    "id": {
+      "name": "Strategi Algoritma",
+      "description": "Kompleksitas algoritma, Brute Force Algorithms, Greedy Algorithms, Divide and Conquer Algorithms, DFS, BFS, Backtracking Algorithms, Branch and Bound Algorithms, Dynamic Programming String Matching, NP Theory",
+      "syllabus": "Kompleksitas algoritma, Brute Force Algorithms, Greedy Algorithms, Divide and Conquer Algorithms, DFS, BFS, Backtracking Algorithms, Branch and Bound Algorithms, Dynamic Programming String Matching, NP Theory",
+      "outcomes": "Students understand various problem solving techniques efficiently which depend on characteristics of the problems."
+    },
+    "en": {
+      "name": "Algorithm Strategies",
+      "description": "Algorithm complexity, Brute Force Algorithms, Greedy Algorithms, Divide and Conquer Algorithms, DFS, BFS, Backtracking Algorithms, Branch and Bound Algorithms, Dynamic Programming String Matching, NP Theory",
+      "syllabus": "Algorithm complexity, Brute Force Algorithms, Greedy Algorithms, Divide and Conquer Algorithms, DFS, BFS, Backtracking Algorithms, Branch and Bound Algorithms, Dynamic Programming String Matching, NP Theory",
+      "outcomes": "Students understand various problem solving techniques efficiently which depend on characteristics of the problems."
+    }
+  }
+}
